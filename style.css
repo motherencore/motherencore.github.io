@@ -1,0 +1,121 @@
+body {
+    background-color: #14060a;
+    color: white;
+  }
+
+header .img-fluid {
+    max-width: 25%;
+    height: auto;
+    margin-right: 23%;
+}
+
+header {
+    background-color: #c24b49;
+}
+
+header .nav-link{
+    color: #ffdc51;
+    font-size: 20px;
+    margin: 5%;
+}
+
+header .nav-link:hover{
+    color: #2e2ee2;
+}
+
+
+.btn-custom {
+    color: #fff;
+    
+}
+
+.botm{
+    padding-top: 5%;
+    z-index: 2;
+}
+
+.bg {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 70vh;
+    max-height: 70vh;
+    background-image: url("Assets/BGs/Zoo.png");
+    background-position: center -15vh;
+    animation-name: moveZoo;
+    animation-duration: 40s;
+    animation-timing-function: linear;
+    box-shadow:inset 0 0 0 2000px rgba(194, 75, 73, 0.521);
+    animation-fill-mode: forwards; 
+  }
+  
+@keyframes moveZoo {
+    from {
+        background-position: -70% 3%;
+    }
+    to { 
+        background-position: -140% 100%;
+    }
+ } 
+
+ @keyframes moveAnt {
+    from {
+        background-position: 10% 3%;
+    }
+    to { 
+        background-position: 100% 100%;
+    }
+ }
+ 
+ @keyframes moveDer {
+    from {
+        background-position: 80% 70%;
+    }
+    to { 
+        background-position: 10% 3%;
+    }
+ }
+
+ .bgbo {
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    height: 70vh;
+    max-height: 70vh;
+    background-color: black;
+    background-position: center -15vh;
+    box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.521);
+    opacity: 0%;
+    animation-name: none;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+ }
+
+ @keyframes fadein {
+    from {
+        opacity: 0%
+    }
+    to { 
+        opacity: 100%
+    }
+ }
+
+ @keyframes fadeout {
+    from {
+        opacity: 100%
+    }
+    to { 
+        opacity: 0%
+    }
+ }
+
+ .ninepatch {
+    margin:30px;
+    padding: 30px 12px;
+    text-align: center;
+    background-color: white;
+    border-image: url(http://www.css3.info/wp-content/uploads/2007/09/border.png) 25 fill repeat;
+    border-image-width:15px;
+    border-image-outset: 9px;
+  }
