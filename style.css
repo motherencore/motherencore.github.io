@@ -3,14 +3,14 @@ body {
     color: white;
   }
 
+header {
+    background-color: #c24b49;
+}
+
 header .img-fluid {
     max-width: 25%;
     height: auto;
     margin-right: 23%;
-}
-
-header {
-    background-color: #c24b49;
 }
 
 header .nav-link{
@@ -36,7 +36,7 @@ header .nav-link:hover{
 
 .bg {
     position: absolute;
-    z-index: -1;
+    z-index: 0;
     width: 100%;
     height: 70vh;
     max-height: 70vh;
@@ -120,19 +120,35 @@ header .nav-link:hover{
     border-image-outset: 9px;
   }
 
-footer .img-fluid {
-    max-width: 25%;
-    height: auto;
-    margin-right: 23%;
-}
-
 footer {
     background-color: #c24b49;
+    line-height: 120%;
+    bottom: 0;
+    position: relative;
+}
+
+footer > div .navbar{
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+}
+
+.nav-item{
+    width: 5%;
+}
+
+footer > p{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 0;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    color:#ffdc51;
+    text-align: center;
 }
 
 footer .nav-link{
     color: #ffdc51;
-    font-size: 15px;
     margin: 5%;
 }
 
@@ -140,14 +156,3 @@ footer .nav-link:hover{
     color: #2e2ee2;
 }
 
-footer .social-link{
-    display:inline-block;
-    color: #ffdc51;
-    margin: 5%;
-    text-decoration: none;
-}
-
-footer .social-link:hover{
-    transition: 0.3s;
-    color: #2e2ee2;
-}
