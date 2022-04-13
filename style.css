@@ -119,3 +119,35 @@ header .nav-link:hover{
     border-image-width:15px;
     border-image-outset: 9px;
   }
+
+footer .img-fluid {
+    max-width: 25%;
+    height: auto;
+    margin-right: 23%;
+}
+
+footer {
+    background-color: #c24b49;
+}
+
+footer .nav-link{
+    color: #ffdc51;
+    font-size: 15px;
+    margin: 5%;
+}
+
+footer .nav-link:hover{
+    color: #2e2ee2;
+}
+
+footer .social-link{
+    display:inline-block;
+    color: #ffdc51;
+    margin: 5%;
+    text-decoration: none;
+}
+
+footer .social-link:hover{
+    transition: 0.3s;
+    color: #2e2ee2;
+}
