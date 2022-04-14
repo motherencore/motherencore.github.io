@@ -16,13 +16,13 @@ header .img-fluid {
 }
 
 header .nav-link{
-    color: #ffdc51;
+    color: #14060a;
     font-size: 20px;
     margin: 5%;
 }
 
 header .nav-link:hover{
-    color: #2e2ee2;
+    color: #ffdc51;
 }
 
 
@@ -144,23 +144,19 @@ footer > p{
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 0;
-    padding-top: .5%;
-    padding-bottom: .5%;
-    color:#ffdc51;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:#512524;
     text-align: center;
 }
 
 footer .nav-link{
-    color: #ffdc51;
+    color: #512524;
     margin: 5%;
 }
 
 footer .nav-link:hover{
-    color: #2e2ee2;
-}
-
-img .chara{
-    height: max-content;
+    color: #ffdc51;
 }
 
 .vidzone{
@@ -186,4 +182,21 @@ img .chara{
 
 .caro-img{
     width: 100%;
+}
+
+div .info > p {
+    margin: 5%;
+    text-align: center;
+    text-justify: inter-word;
+}
+
+.chara {
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chara-box {
+    text-align: center;
 }
