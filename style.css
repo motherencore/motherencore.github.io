@@ -1,9 +1,11 @@
 body {
+    width: 100%;
     background-color: #14060a;
     color: white;
   }
 
 header {
+    width: 100%;
     background-color: #c24b49;
 }
 
@@ -15,8 +17,9 @@ header .img-fluid {
 
 header .nav-link{
     color: #ffdc51;
-    font-size: 20px;
-    margin: 5%;
+    font-size: 1.25em;
+    margin-left: 5%;
+    margin-right: 0;
 }
 
 header .nav-link:hover{
@@ -121,6 +124,7 @@ header .nav-link:hover{
   }
 
 footer {
+    width: 100%;
     background-color: #c24b49;
     line-height: 120%;
     bottom: 0;
@@ -156,3 +160,31 @@ footer .nav-link:hover{
     color: #2e2ee2;
 }
 
+img .chara{
+    height: max-content;
+}
+
+.vidzone{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.centered{
+    text-align: center;
+}
+
+.caro-img{
+    width: 100%;
+}

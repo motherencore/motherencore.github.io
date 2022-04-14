@@ -14,7 +14,7 @@
 <body>
 
 <header>
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-lg">
             <img src="Assets/meLogo.svg" class="img-fluid" alt="MOTHER encore">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
@@ -37,25 +37,24 @@
 <!--
         Videos
 -->
-<div class="bg">
-    <div class="bgbo"></div>
+
     <div class="container">
-        <div class="row align-items-start">
-            <div class="col botm">
-                <iframe width="640" height="360" src="https://www.youtube.com/embed/pqtqy3HyqcE?autoplay=1"
+        <div class="align-items-start" style="padding: 1rem;">
+            <div class="vidzone">
+                <iframe class="responsive-iframe" id="ytVids" src="https://www.youtube.com/embed/pqtqy3HyqcE?autoplay=1"
                         title="YouTube video player" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
             </div>
-            <div class="col botm">
+            <!--<div class="row">
                 <div class="d-grid gap-4">
                     <button class="btn btn-warning btn-custom btn-lg" type="button">Teaser | 6/13/20</button>
-                    <button class="btn btn-warning btn-custom btn-lg" type="button">Update Video #1 | 12/25/21</button>
+                    <button class="btn btn-warning btn-custom btn-lg" type="button">Update Video #1 | 6/13/21</button>
                     <button class="btn btn-warning btn-custom btn-lg" type="button">Update Video #2 | 12/25/21</button>
                     <button class="btn btn-warning btn-custom btn-lg" disabled type="button">&nbsp;</button>
                     <button class="btn btn-warning btn-custom btn-lg" disabled type="button">&nbsp;</button>
                 </div>
-            </div>
+            </div>-->
         </div>
     </div>
 
@@ -63,13 +62,13 @@
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
             crossorigin="anonymous"></script>
     <script src="bg.js"></script>
-</div>
+
 
 <!--
         Basic Information
 -->
 <div class="container">
-    <div class="row"><h1 style="text-align: center; margin-top:50%;">
+    <div class="row"><h1 style="text-align: center;">
         lorem ipsum!!!!!
     </h1></div>
     <div class="row">
@@ -88,6 +87,24 @@
     <div class="row"><h1 style="text-align: center;">
         Cast
     </h1></div>
+
+    <!--    Ninten      -->
+    <div class="col-3">
+        <img class="chara" src="/Assets/Chara/ninten.png" style="max-height: 50vh;" alt="Ninten">
+    </div>
+
+    <div class="col-9"></div>
+
+    <!--    Lloyd      -->
+
+
+    <!--    Ana      -->
+
+
+    <!--    Teddy      -->
+
+
+
 </div>
 
 
@@ -97,12 +114,49 @@
 <!--
         Gallery
 -->
-<div class="container">
+<div class="container" style="padding-bottom: 1%; overflow: hidden;">
     <div class="row"><h1 style="text-align: center;">
         Gallery
     </h1></div>
 
-    <!--put carosel here ok? ok-->
+    <div id="screenshots" class="carousel slide mx-auto p-1" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#screenshots" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#screenshots" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#screenshots" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+
+            <!-- Image 1 -->
+            <div class="carousel-item centered active">
+                <img src="Assets/ninten_Dough.png" class="caro-img" alt="Nintendough">
+            </div>
+
+            <!-- Image 2 -->
+            <div class="carousel-item centered">
+                <img src="Assets/ninten_Dough.png" class="caro-img" alt="Nintendough">
+            </div>
+
+            <!-- Image 3 -->
+            <div class="carousel-item centered">
+                <img src="Assets/ninten_Dough.png" class="caro-img" alt="Nintendough">
+            </div>
+
+            <!-- Image N -->
+            <!--<div class="carousel-item centered">
+                <img src="/Assets/Chara/bg.png" class="caro-img" alt"text">
+            </div>-->
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#screenshots" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#screenshots" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
 
 </div>
 
@@ -111,11 +165,7 @@
     <p>Community</p>
     <nav class="navbar navbar-expand-lg">
         <div class="container-lg">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-                    aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-around" id="socialNavAltMarkup">
+            <div class="row">
                 <div class="navbar-nav justify-content-center">
                     <a href="https://twitter.com/Mother_Encore" class="nav-link fa-brands fa-twitter">Twitter</a>
                     <a href="https://www.youtube.com/channel/UCQDodAgh7ckh7l3sTlsVdPA"
