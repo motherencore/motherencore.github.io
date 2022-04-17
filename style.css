@@ -199,3 +199,28 @@ div .info > p {
 .chara-box {
     text-align: center;
 }
+
+.song-name{
+    color: #ffdc51;
+}
+
+.table{
+    color: white;
+}
+
+.song-table{
+    color: #512524;
+    border-style: none;
+}
+
+.songcard{
+    background-color: #c24b49;
+}
+
+.nav-link{
+    color: #512524;
+}
+
+.nav-link:hover{
+    color: #ffdc51;
+}
