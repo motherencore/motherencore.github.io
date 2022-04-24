@@ -224,3 +224,12 @@ div .info > p {
 .nav-link:hover{
     color: #ffdc51;
 }
+
+.norm-link{
+    text-decoration: none;
+    color: #ffdc51;
+}
+
+.norm-link:hover{
+    color: #e2a241;
+}
