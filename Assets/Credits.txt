@@ -19,8 +19,6 @@
 	@hephepteam - programmer
 	@mcthrillington - music composer
 	@copperthejackal - music composer
-	@iamshanemesa - guest music composer
-	@supabubbamusic - guest music composer
 	@lonechallenger - translator
 	@daegg123 - discord server moderator | social media manager
 	@xylophoneexists - discord server moderator | social media manager
