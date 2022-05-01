@@ -209,8 +209,8 @@ div .info > p {
 }
 
 .song-table{
-    color: #512524;
-    border: none;
+    color: #7e0404;
+    border-style: none;
     align-items: center;
     justify-content: center;
 }
@@ -230,6 +230,7 @@ div .info > p {
     padding-left: 1rem;
     justify-content: right;
     text-align: right;
+    color: #512524;
 }
 
 .nav-link{
@@ -247,8 +248,4 @@ div .info > p {
 
 .norm-link:hover{
     color: #e2a241;
-}
-
-line-col{
-    color: #512524;
 }
