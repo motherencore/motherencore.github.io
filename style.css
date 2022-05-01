@@ -210,11 +210,26 @@ div .info > p {
 
 .song-table{
     color: #512524;
-    border-style: none;
+    border: none;
+    align-items: center;
+    justify-content: center;
 }
 
 .songcard{
     background-color: #c24b49;
+}
+
+.song-table td{
+    padding: 0.5rem;
+}
+
+.song-table div{
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    justify-content: right;
+    text-align: right;
 }
 
 .nav-link{
@@ -232,4 +247,8 @@ div .info > p {
 
 .norm-link:hover{
     color: #e2a241;
+}
+
+line-col{
+    color: #512524;
 }
