@@ -244,8 +244,10 @@ div .info > p {
 .norm-link{
     text-decoration: none;
     color: #ffdc51;
+    transition: color 1s;
 }
 
 .norm-link:hover{
     color: #e2a241;
+    transition: color 1s;
 }
