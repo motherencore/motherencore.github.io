@@ -126,32 +126,6 @@ $(document).ready(function () {
                 ${credits[section].people}
             </p>
         </div>
-        `, ''
-        /*`<!-- POST START -->
-        <div class="box">
-        
-        <!-- POST ICON AND DATE  -->
-        <div class="left">
-        <img class="icon" src="${fishies[fish].img}">
-        <p id="name">${fish}</p>
-        </div>
-    
-        <!-- POST TEXT -->
-        <div class="right">
-    
-        <p id="rarity">${fishies[fish].rarity}</p>
-    
-        <p>--------</p>
-    
-        <p id="title">${fishies[fish].title}</p>
-    
-        <p>--------</p>
-    
-        <p id="desc">${fishies[fish].desc}</p>
-        </div>
-        
-        </div>
-        <!-- POST END -->`, ''*/
     );
     sec.innerHTML = html;
 });
