@@ -126,7 +126,7 @@ $(document).ready(function () {
                 ${credits[section].people}
             </p>
         </div>
+        `, ''
     );
-    `, ''
     sec.innerHTML = html;
 });
