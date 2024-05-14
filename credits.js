@@ -116,10 +116,10 @@ credits = {
 $(document).ready(function () {
     const sec = document.querySelector('#creditZone');
 
-    const html = Object.keys(credits).reduce((accum, section) => accum +
+    sec.innerHTML = Object.keys(credits).reduce((accum, section) => accum +
         `<!-- SECTION START -->
-        <h1 style="text-align: center; margin-top: 2rem;">
-            ${credits[section].title}
+        <h1 class="translated" style="text-align: center; margin-top: 2rem;">
+            ${section}
         </h1>
         <div class="info">
             <p style="margin-top: 2.5%;">
@@ -128,5 +128,4 @@ $(document).ready(function () {
         </div>
         `, ''
     );
-    sec.innerHTML = html;
 });
