@@ -5,7 +5,7 @@ $(document).ready(function () {
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container-lg">
                 <div class="col" style="overflow: hidden;">
-                    <a href="index.html"><img src="../Assets/meLogo.svg" class="img-fluid" alt="MOTHER encore"></a>
+                    <a href="index.html"><img src="Assets/meLogo.svg" class="img-fluid" alt="MOTHER encore"></a>
                 </div>
                 <div class="col">
                     <button class="col navbar-toggler justify-content-right" type="button" data-bs-toggle="collapse"
