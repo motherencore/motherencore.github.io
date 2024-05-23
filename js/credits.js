@@ -5,7 +5,7 @@ $(document).ready(function () {
         sec.innerHTML = Object.keys(credits).reduce((accum, section) =>
             accum +
             `<!-- SECTION START -->
-            <h1 class="translated" style="text-align: center; margin-top: 2rem;">
+            <h1 class="translated" data-id="${credits[section].id}" style="text-align: center; margin-top: 2rem;">
                 ${section}
             </h1>
             <div class="info">
