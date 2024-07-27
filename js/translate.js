@@ -42,8 +42,7 @@ function translatePage(lang) {
 
     lang = localStorage.getItem("language")
 
-    // temp until the navbar is fixed
-    // document.getElementById("navbarDropdown").innerHTML = lang.replace("_", "").toUpperCase()
+    document.getElementById("navbarDropdown").innerHTML = lang.replace("_", "").toUpperCase()
 
     if (localStorage.getItem("language") === "en")
         return
