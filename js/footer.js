@@ -1,3 +1,9 @@
+/**
+ * ==========================================================================================
+ * Generates the credits based on the credits.json file
+ * The final Special Thanks section is manually fixed in translate.js
+ * ==========================================================================================
+ */
 $(document).ready(function () {
     const footer = document.querySelector('#footer');
     footer.innerHTML = `
