@@ -112,6 +112,14 @@ header .nav-link:hover{
     }
  }
 
+header > ul .space{
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    display: flex;
+    flex-grow: 1;
+}
+
  .ninepatch {
     margin:30px;
     padding: 30px 12px;
@@ -137,7 +145,8 @@ footer > div .navbar{
 }
 
 .nav-item{
-    width: 5%;
+    flex-grow: 1;
+    align-items: center;
 }
 
 footer > p{

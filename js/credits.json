@@ -9,39 +9,39 @@
     },
     "Programmers": {
         "id": "SITE_CREDITS_PROGRAMMERS",
-        "people": ["Pkdotts","roka","benichi","ZetCipher","HepHep","Pedro Braga"]
+        "people": ["Pkdotts", "roka", "benichi", "ZetCipher", "HepHep", "Pedro Braga", "JumpmanFR", "Danionel"]
     },
     "NPC Sprite Artists": {
         "id": "SITE_CREDITS_ARTISTS_NPC",
-        "people": ["benichi","Nicolás Romero","Pkdotts","Sam the Salmon","Bassya","Clipbrick","FlintMother3","Yahav","Megadrivesonic"]
+        "people": ["benichi", "Retro 64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Cipbrick", "FlintMother 3", "Yahav", "Megadrivesonic"]
     },
     "Character Animators": {
         "id": "SITE_CREDITS_ANIM_CHARA",
-        "people": ["Pkdotts","benichi","Sam the Salmon","Clipbrick","PKdinosaur","MaxBound","-MP64-","Castor28","SuperSquidoodle","Cart Mart","Mallow","corblan"]
+        "people": ["Pkdotts", "benichi", "Sam the Salmon", "Clipbrick", "dianesaur", "MaxBound", "-MP64-", "Castor28", "SuperSquidoodle", "CartMart", "Mallow", "corblan"]
     },
     "Effects Animators": {
         "id": "SITE_CREDITS_ANIM_EFFECTS",
-        "people": ["Ren Amamiya","Pkdotts","Clipbrick","AveryPizza"]
+        "people": ["Ren Amamiya", "Pkdotts", "Clipbrick", "AveryPizza", "Aqief"]
     },
     "Battle Background Artists": {
         "id": "SITE_CREDITS_ARTISTS_BATTLEBG",
-        "people": ["Sam The Salmon","Pkdotts","benichi","Clipbrick"]
+        "people": ["Sam The Salmon", "Pkdotts", "benichi", "Clipbrick", "Bassya"]
     },
     "Map Designers": {
         "id": "SITE_CREDITS_DESIGN_MAPS",
-        "people": ["Sam the Salmon","Pkdotts","Benichi","Clipbrick"]
+        "people": ["Sam The Salmon", "Pkdotts", "benichi", "Clipbrick"]
     },
     "Illustration Artists": {
         "id": "SITE_CREDITS_ARTISTS_ILLUSTRATION",
-        "people": ["Sam the Salmon","Pkdotts","dianesaur","Clipbrick","Birb"]
+        "people": ["Sam The Salmon", "Pkdotts", "dianesaur", "Clipbrick", "benichi", "Birb"]
     },
     "Concept Artists": {
         "id": "SITE_CREDITS_ARTISTS_CONCEPT",
-        "people": ["Falcon","Pkdotts","Sam the Salmon","Nicolás Romero","Scan"]
+        "people": ["Falcon", "Pkdotts", "Sam the Salmon", "Nicolás Romero", "Scan"]
     },
     "Promotional Artists": {
         "id": "SITE_CREDITS_ARTISTS_PROMO",
-        "people": ["Nicolás Romero","Retro64","Clipbrick"]
+        "people": ["Nicolás Romero", "Retro64", "Clipbrick"]
     },
     "Mother Encore Logo Designer": {
         "id": "SITE_CREDITS_DESIGN_LOGO",
@@ -49,23 +49,27 @@
     },
     "Writers": {
         "id": "SITE_CREDITS_WRITERS",
-        "people": ["Scan","Pkdotts"]
+        "people": ["Scan", "Pkdotts"]
     },
     "Musicians": {
         "id": "SITE_CREDITS_MUSICIANS",
-        "people": ["CopperTheJackal","McThrillington"]
+        "people": ["CopperTheJackal", "McThrillington"]
     },
     "Vocalists": {
         "id": "SITE_CREDITS_SINGERS",
-        "people": ["BismuthBloom","CopperTheJackal"]
+        "people": ["BismuthBloom", "CopperTheJackal"]
     },
-    "": {
-        "id": "SITE_CREDITS_SINGERS",
-        "people": [""]
+    "Voice Actor": {
+        "id": "SITE_CREDITS_VOICE",
+        "people": ["Retro64"]
     },
     "Bug Testers": {
         "id": "SITE_CREDITS_TESTERS_BUGS",
-        "people": ["Vicente","Clipbrick","SuperSquidoodle","sludgeXP","Pkdotts","benichi","Bassya","Scan","Okano","Xylo"]
+        "people": ["Vicente", "Clipbrick", "SuperSquidoodle", "sludgeXP", "Pkdotts", "benichi", "Bassya", "Scan", "Okano", "Xylo", "Chiipan7", "Olavo R.", "Danionel", "JumpmanFR"]
+    },
+    "Translation Manager": {
+        "id": "SITE_CREDITS_TRANSLATION_MANAGER",
+        "people": ["JumpmanFR"]
     },
     "Translators": {
         "id": "SITE_CREDITS_TRANSLATORS",
@@ -77,35 +81,35 @@
     },
     "French Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_FR",
-        "people": ["Anthiflo", "Cacathoès", "JumpmanFR"]
+        "people": ["JumpmanFR", "Cacathoès", "Anthiflo"]
     },
-    "Italian Translators": {
-        "id": "SITE_CREDITS_TRANSLATOR_IT",
-        "people": ["Korenji", "SpikyG"]
-    },
-    "Korean Translators": {
-        "id": "SITE_CREDITS_TRANSLATOR_KO",
-        "people": ["Hanlan", "Pogaem"]
-    },
-    "Spanish (Latin America) Translator": {
+    "Spanish (Latin America) Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_ES",
-        "people": ["Halosesparta"]
+        "people": ["Halosesparta", "Vicente"]
     },
-    "Spanish (Spain) Translator": {
+    "Spanish (Spain) Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_ES_ES",
-        "people": ["Danionel"]
+        "people": ["Danionel", "beleowu", "SlaySeraph"]
     },
-    "Portuguese (Brazil) Translator": {
+    "Portuguese (Brazil) Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_PT_BR",
-        "people": ["Olavo R."]
-    },
-    "Polish Translator": {
-        "id": "SITE_CREDITS_TRANSLATOR_PL",
-        "people": ["Majima"]
+        "people": ["Olavo R.", "Foffano"]
     },
     "German Translator": {
         "id": "SITE_CREDITS_TRANSLATOR_DE",
         "people": ["Madokami"]
+    },
+    "Polish Translator": {
+        "id": "SITE_CREDITS_TRANSLATOR_PL",
+        "people": ["Majima", "Voxar"]
+    },
+    "Korean Translators": {
+        "id": "SITE_CREDITS_TRANSLATOR_KO",
+        "people": ["Pogaem", "Hanlan"]
+    },
+    "Italian Translators": {
+        "id": "SITE_CREDITS_TRANSLATOR_IT",
+        "people": ["Korenji", "SpikyG", "Benz"]
     },
     "Manager of Fun": {
         "id": "SITE_CREDITS_FUN",
@@ -113,10 +117,10 @@
     },
     "Special Thanks": {
         "id": "SITE_CREDITS_THANKS",
-        "people": ["Jonathan DaEgg123","Snowwood a.k.a. Burger God","Chiipan7","MF PORKy","Kody NOKOLO","Echoes/Minty","HeyItsCeleste"]
+        "people": ["Jonathan DaEgg123", "Snowwood a.k.a. Burger God", "Kody NOKOLO", "Echoes/Minty", "HeyItsCeleste", "Jade", "Tinx", "Pastel", "Cherryello"]
     },
     "Very Special Thanks": {
         "id": "SITE_CREDITS_THANKS_VERY",
-        "people": ["Mother Forever","Starmen.net","The Mother 1 + 2 Fan Translation Team","The Mother Community","The Mother Encore Discord Server"]
+        "people": ["Mother Forever", "Starmen.net", "The Mother 1 + 2 Fan Translation Team", "The Mother Community", "The Mother Encore Discord Server"]
     }
 }
