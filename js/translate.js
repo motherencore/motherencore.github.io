@@ -16,8 +16,8 @@ function cleanHtml(text, lang) {
         text = text.replaceAll("</a>", "</a>")
     }
     else {
-        text = text.replaceAll("<a", "\"<a class=\"norm-link\"")
-        text = text.replaceAll("</a>", "</a>\"")
+        text = text.replaceAll("<a", "<a class=\"norm-link\"")
+        text = text.replaceAll("</a>", "</a>")
     }
 
     return text
