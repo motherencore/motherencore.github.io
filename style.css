@@ -260,3 +260,12 @@ div .info > p {
     color: #e2a241;
     transition: color 1s;
 }
+
+.ja-list{
+    text-align:left;
+    list-style-type: circle;
+}
+
+.ja-bullet{
+    padding: 0.5rem;
+}

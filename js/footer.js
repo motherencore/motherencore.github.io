@@ -1,7 +1,7 @@
 $(document).ready(function () {
     const footer = document.querySelector('#footer');
     footer.innerHTML = `
-        <p class="translated" data-id=“SITE_FOOTER_SOCIAL” style="padding-bottom: 0;">Social Media</p>
+        <p class="translated" data-id="SITE_FOOTER_SOCIAL" style="padding-bottom: 0;">Social Media</p>
 
         <div class="d-flex justify-content-center" style="overflow: hidden; height: 30px;">
             <a title="Twitter" href="https://twitter.com/Mother_Encore" class="nav-link fa-brands fa-twitter"> </a>
@@ -12,6 +12,6 @@ $(document).ready(function () {
             <a title="Tumblr" href="https://motherencore.tumblr.com/" class="nav-link fa-brands fa-tumblr"> </a>
         </div>
     
-        <p class="translated" data-id=“SITE_FOOTER_DISCLAIMER” style="padding-top: 0;">Disclaimer: MOTHER: Encore is a fan made project, and is in no way affiliated, associated, authorized, endorsed by, or in any way officially connected with Nintendo Inc., Shigesato Itoi, HAL Laboratory, Inc., or any of its subsidiaries or its affiliates.</p>
+        <p class="translated" data-id="SITE_FOOTER_DISCLAIMER" style="padding-top: 0;">Disclaimer: MOTHER: Encore is a fan made project, and is in no way affiliated, associated, authorized, endorsed by, or in any way officially connected with Nintendo Inc., Shigesato Itoi, HAL Laboratory, Inc., or any of its subsidiaries or its affiliates.</p>
         `;
 });

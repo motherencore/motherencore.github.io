@@ -11,13 +11,11 @@ function cleanHtml(text, lang) {
     text = text.replaceAll("<p>", "")
     text = text.replaceAll("</p>", "")
 
-    if (lang === "ja" || lang === "ko") {
-        text = text.replaceAll("<a", "<a class=\"norm-link\"")
-        text = text.replaceAll("</a>", "</a>")
-    }
-    else {
-        text = text.replaceAll("<a", "\"<a class=\"norm-link\"")
-        text = text.replaceAll("</a>", "</a>\"")
+    text = text.replaceAll("<a", "<a class=\"norm-link\"")
+
+    if (lang === "ja") {
+        text = text.replace("<ul>", "<ul class=\"ja-list\">")
+        text = text.replaceAll("<li>", "<li class=\"ja-bullet\">")
     }
 
     return text
