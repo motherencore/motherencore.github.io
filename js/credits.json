@@ -89,7 +89,7 @@
     },
     "Spanish (Spain) Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_ES_ES",
-        "people": ["Danionel", "beleowu", "SlaySeraph"]
+        "people": ["Danionel", "beleowu"]
     },
     "Portuguese (Brazil) Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_PT_BR",
@@ -101,15 +101,19 @@
     },
     "Polish Translator": {
         "id": "SITE_CREDITS_TRANSLATOR_PL",
-        "people": ["Majima", "Voxar"]
+        "people": ["Majima", "Voxar", "idkwhattosayk? a.k.a. Jimmy"]
     },
     "Korean Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_KO",
-        "people": ["Pogaem", "Hanlan"]
+        "people": ["Pogaem", "Hanlan", "qhtjr"]
     },
     "Italian Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_IT",
         "people": ["Korenji", "SpikyG", "Benz"]
+    },
+    "Russian Translator": {
+        "id": "SITE_CREDITS_TRANSLATOR_RU",
+        "people": ["Anasu Meruku"]
     },
     "Manager of Fun": {
         "id": "SITE_CREDITS_FUN",
