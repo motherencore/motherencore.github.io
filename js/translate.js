@@ -16,7 +16,7 @@ function cleanHtml(text, lang) {
     if (lang === "ja" || lang === "ko") {
         text = text.replace("<ul>", "<ul class=\"ja-list\">")
         text = text.replaceAll("<li>", "<li class=\"ja-bullet\">")
-        text = text.replace("<h1 id="downloads">Downloads 채널에서 데모 빌드 찾기</h1>", "#Downloads 채널에서 데모 빌드 찾기")
+        text = text.replace("<h1 id=\"downloads\">Downloads 채널에서 데모 빌드 찾기</h1>", "#Downloads 채널에서 데모 빌드 찾기")
     }
 
     return text
