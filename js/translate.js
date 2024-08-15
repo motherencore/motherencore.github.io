@@ -24,6 +24,21 @@ function cleanHtml(text, lang) {
 
 /**
  * ==========================================================================================
+ * Replaces the sections final parts of the credits
+ * @param {string} lang - the language of the page
+ * @param translation   - the hash stored in languages.json
+ * ==========================================================================================
+ */
+function specialThanks(lang, translation) {
+    let text = "Mother Forever<br>Starmen.net<br>The Mother 1 + 2 Fan Translation Team<br>The Mother Community<br>The Mother Encore Discord Server"
+    text = text.replace("The Mother 1 + 2 Fan Translation Team", translation["SITE_CREDITS_NAME_FAN_TRANSL"][lang])
+    text = text.replace("The Mother Community", translation["SITE_CREDITS_NAME_COMMUNITY"][lang])
+    text = text.replace("The Mother Encore Discord Server", translation["SITE_CREDITS_NAME_DISCORD"][lang])
+    return text
+}
+
+/**
+ * ==========================================================================================
  * Translates a page by finding the class and replacing by data-id
  * @param {string} lang - language. is changed to en if not found in the language list
  * ==========================================================================================
@@ -58,13 +73,12 @@ function translatePage(lang) {
             });
         });
 
+        let thanks = document.querySelector('#SITE_CREDITS_THANKS_VERY');
+        if (thanks) {
+            thanks.innerHTML = specialThanks(lang, TRANSLATIONS);
+        }
 
     });
-
-    // replace these phrases manually bc otherwise its hell
-    //"Mother Forever","Starmen.net","The Mother 1 + 2 Fan Translation Team","The Mother Community","The Mother Encore Discord Server"
-
-
 }
 
 /**

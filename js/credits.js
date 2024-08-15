@@ -15,7 +15,7 @@ $(document).ready(function () {
                 ${section}
             </h1>
             <div class="info">
-                <p style="margin-top: 2.5%;">
+                <p style="margin-top: 2.5%;" id="${credits[section].id}">
                     ${credits[section].people}
                 </p>
             </div>
