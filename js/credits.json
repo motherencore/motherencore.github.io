@@ -13,11 +13,11 @@
     },
     "NPC Sprite Artists": {
         "id": "SITE_CREDITS_ARTISTS_NPC",
-        "people": ["benichi", "Retro 64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Cipbrick", "FlintMother 3", "Yahav", "Megadrivesonic"]
+        "people": ["benichi", "Retro 64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Cipbrick", "FlintMother 3", "Yahav", "Megadrivesonic", "Bndi", "Destroyer120", "thatsjuno"]
     },
     "Character Animators": {
         "id": "SITE_CREDITS_ANIM_CHARA",
-        "people": ["Pkdotts", "benichi", "Sam the Salmon", "Clipbrick", "dianesaur", "MaxBound", "-MP64-", "Castor28", "SuperSquidoodle", "CartMart", "Mallow", "corblan"]
+        "people": ["Pkdotts", "benichi", "Sam the Salmon", "Clipbrick", "dianesaur", "MaxBound", "-MP64-", "Castor28", "SuperSquidoodle", "CartMart", "Mallow", "corblan", "deebits"]
     },
     "Effects Animators": {
         "id": "SITE_CREDITS_ANIM_EFFECTS",
@@ -29,7 +29,7 @@
     },
     "Map Designers": {
         "id": "SITE_CREDITS_DESIGN_MAPS",
-        "people": ["Sam The Salmon", "Pkdotts", "benichi", "Clipbrick"]
+        "people": ["Sam The Salmon", "Pkdotts", "benichi", "Clipbrick", "-MP64-", "luff", "meely.px", "NAN4", "Qirlfriend", "Ror"]
     },
     "Illustration Artists": {
         "id": "SITE_CREDITS_ARTISTS_ILLUSTRATION",
@@ -85,7 +85,7 @@
     },
     "Spanish (Latin America) Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_ES",
-        "people": ["Halosesparta", "Vicente"]
+        "people": ["Halosesparta", "Vicente", "Bndi"]
     },
     "Spanish (Spain) Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_ES_ES",
@@ -97,7 +97,7 @@
     },
     "German Translator": {
         "id": "SITE_CREDITS_TRANSLATOR_DE",
-        "people": ["Madokami"]
+        "people": ["Madokami", "BetaDream~♪"]
     },
     "Polish Translator": {
         "id": "SITE_CREDITS_TRANSLATOR_PL",
@@ -113,7 +113,7 @@
     },
     "Russian Translator": {
         "id": "SITE_CREDITS_TRANSLATOR_RU",
-        "people": ["Anasu Meruku"]
+        "people": ["Anasu Meruku", "Zakuro"]
     },
     "Manager of Fun": {
         "id": "SITE_CREDITS_FUN",
