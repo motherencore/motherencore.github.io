@@ -45,6 +45,7 @@ $(document).ready(function () {
                                         <a class="dropdown-item" id="it" onclick="setLanguage('it')">Italiano</a>
                                         <a class="dropdown-item" id="pl" onclick="setLanguage('pl')">Polski</a>
                                         <a class="dropdown-item" id="ko" onclick="setLanguage('ko')">한국어</a>
+                                        <a class="dropdown-item" id="ko" onclick="setLanguage('de')">Deutsch</a>
                                     </div>
                                 </li>
                             </ul>
