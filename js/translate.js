@@ -59,8 +59,8 @@ function translatePage(lang) {
 
     document.getElementById("navbarDropdown").innerHTML = lang.replace("_", "").toUpperCase()
 
-    if (localStorage.getItem("language") === "en")
-        return
+    //if (localStorage.getItem("language") === "en")
+    //    return
 
     // translate the page here
     $.getJSON("js/languages.json", function(TRANSLATIONS) {
