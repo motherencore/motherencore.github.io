@@ -62,6 +62,9 @@ function translatePage(lang) {
     //if (localStorage.getItem("language") === "en")
     //    return
 
+    // modify the lang attribute
+    $( "html" ).attr( "lang", lang );
+
     // translate the page here
     $.getJSON("js/languages.json", function(TRANSLATIONS) {
         $.getScript("https://cdn.jsdelivr.net/npm/showdown@2.0.3/dist/showdown.min.js", function() {
