@@ -269,3 +269,7 @@ div .info > p {
 .ja-bullet{
     padding: 0.5rem;
 }
+
+.question {
+    font-size: 1.75em;
+}
