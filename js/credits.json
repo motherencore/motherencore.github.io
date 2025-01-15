@@ -13,7 +13,7 @@
     },
     "NPC Sprite Artists": {
         "id": "SITE_CREDITS_ARTISTS_NPC",
-        "people": ["benichi", "Retro 64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Cipbrick", "FlintMother 3", "Yahav", "Megadrivesonic", "Bndi", "Destroyer120", "thatsjuno"]
+        "people": ["benichi", "Retro 64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Cipbrick", "FlintMother 3", "Yahav", "Megadrivesonic", "Bndi", "Destroyer120"]
     },
     "Character Animators": {
         "id": "SITE_CREDITS_ANIM_CHARA",
@@ -29,7 +29,7 @@
     },
     "Map Designers": {
         "id": "SITE_CREDITS_DESIGN_MAPS",
-        "people": ["Sam The Salmon", "Pkdotts", "benichi", "Clipbrick", "-MP64-", "luff", "meely.px", "NAN4", "Qirlfriend", "Ror"]
+        "people": ["Sam The Salmon", "Pkdotts", "benichi", "Clipbrick", "-MP64-", "luff", "Qirlfriend", "NAN4", "Ror"]
     },
     "Illustration Artists": {
         "id": "SITE_CREDITS_ARTISTS_ILLUSTRATION",
@@ -41,7 +41,7 @@
     },
     "Promotional Artists": {
         "id": "SITE_CREDITS_ARTISTS_PROMO",
-        "people": ["Nicolás Romero", "Retro64", "Clipbrick"]
+        "people": ["Nicolás Romero", "Retro64", "Clipbrick", "Jaccarias"]
     },
     "Mother Encore Logo Designer": {
         "id": "SITE_CREDITS_DESIGN_LOGO",
@@ -65,7 +65,7 @@
     },
     "Bug Testers": {
         "id": "SITE_CREDITS_TESTERS_BUGS",
-        "people": ["Vicente", "Clipbrick", "SuperSquidoodle", "sludgeXP", "Pkdotts", "benichi", "Bassya", "Scan", "Okano", "Xylo", "Chiipan7", "Olavo R.", "Danionel", "JumpmanFR"]
+        "people": ["Vicente", "Clipbrick", "SuperSquidoodle", "sludgeXP", "Pkdotts", "benichi", "Bassya", "Scan", "Okano", "Xylo", "Chiipan7", "Olavo \"olavored\" R.", "Danionel", "JumpmanFR"]
     },
     "Translation Manager": {
         "id": "SITE_CREDITS_TRANSLATION_MANAGER",
@@ -93,7 +93,7 @@
     },
     "Portuguese (Brazil) Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_PT_BR",
-        "people": ["Olavo R.", "Foffano"]
+        "people": ["Olavo \"olavored\" R.", "Foffano"]
     },
     "German Translator": {
         "id": "SITE_CREDITS_TRANSLATOR_DE",
