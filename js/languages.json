@@ -81,7 +81,7 @@
     "pt_BR": "Aviso legal: MOTHER: Encore é um projeto feito por fãs e não é de nenhuma forma afiliado, associado, autorizado, patrocinado ou conectado oficialmente à Nintendo, Shigesato Itoi, HAL Laboratory, Inc. ou a alguma de suas subsidiárias ou afiliadas.",
     "pl": "Oświadczenie: MOTHER: Encore jest projektem stworzonym przez fanów i nie jest w żaden sposób powiązany, zrzeszony, autoryzowany, wspierany ani w żaden sposób oficjalnie powiązany z Nintendo, Shigesato Itoi, HAL Laboratory, Inc. ani żadną z ich spółek zależnych lub stowarzyszonych.",
     "de": "Hinweis: MOTHER: Encore ist ein Fan-Projekt und in keinster Weise mit Nintendo, Shigesato Itoi, HAL Laboratory, Inc. oder einer ihrer Tochtergesellschaften bzw. Partnerunternehmen zusammen, assoziiert, autorisiert, gebilligt oder in irgendeiner Art, offiziell mit ihnen verbunden.",
-    "ru": "Внимание: MOTHER: Encore — это фанатский проект, который не лицензирован, не ассоциирован, не авторизован, не одобрен и никаким образом не связан с Nintendo, Сигэсато Итои, HAL Laboratory, Inc. или с любыми другими дочерними компаниями и аффилированными лицами."
+    "ru": "Внимание: MOTHER: Encore — это фанатский проект, который не лицензирован, не ассоциирован, не авторизован и не одобрен Nintendo, Сигэсато Итои, HAL Laboratory, Inc. или какими-либо другими дочерними компаниями и аффилированными лицами и никаким образом с ними не связан."
   },
   "SITE_HOME_HEADLINE": {
     "en": "Get ready to see a whole new spin on the beloved classic!",
@@ -116,8 +116,8 @@
     "es": "¡Únete a Ninten, Ana, Lloyd, Teddy y a una loca pelirroja en un viaje a través de América! En búsqueda de las Ocho Melodías para la Reina Mary, ¡y para impedir que el cruel Giegue aprisione a la humanidad! Prepárate para explorar nuevas mazmorras, jugar con las nuevas mecánicas, escuchar el Walkman de Ninten, hablar con nuevas personas y luchar contra nuevos enemigos en esta celebración del juego que lo empezó todo.",
     "pt_BR": "Junte-se a Ninten, Ana, Lloyd, Teddy e uma ruiva doidinha numa jornada através da América para reunir todas as Oito Melodias para a Rainha Mary e impedir o malvado Giegue de aprisionar toda a humanidade! Prepare-se para explorar novas masmorras, usar novas mecânicas, escutar o walkman do Ninten, conhecer novas pessoas e batalhar contra novos inimigos nesta celebração do jogo que deu origem a tudo!",
     "pl": "Dołącz do Nintena, Any, Lloyda, Teddy’ego i pewną szaloną rudowłosą w podróży przez Amerykę! W misji zebrania Ośmiu Melodii dla Królowej Marii i powstrzymania nikczemnego Giegue’a przed zniewoleniem ludzkości! Przygotuj się na odkrywanie nowych lokacji, zabawę z nowymi mechanikami gry, słuchanie walkmana Nintena, rozmowy z nowymi ludźmi i walkę z nowymi wrogami w tej celebracji gry, od której wszystko się zaczęło.",
-    "de": "Begleite Ninten, Ana, Lloyd, Teddy und eine verrückte Rothaarige auf eine Reise quer durch Amerika! Auf der Suche nach acht Melodien für Königin Mary und um den abscheulichen Giygas daran zu hindern, die Menschheit in Gefangenschaft zu nehmen! Mach dich bereit, neue Dungeons zu erforschen, mit neuen Mechaniken zu spielen, Nintens Walkman zu hören, mit neuen Leuten zu sprechen und neue Feinde zu bekämpfen; in dieser Zelebrierung des Spiels, mit dem alles begann.",
-    "ru": "Присоединяйтесь к Нинтену, Ане, Ллойду, Тедди и какой-то рыжей сумасшедшей девочке — и пройдите с ними всё Америку! Отправляйтесь на поиски Восьми мелодий для королевы Марии и не дайте ужасному Гийгасу захватить человечество! Приготовьтесь исследовать новые подземелья, играть с новыми механиками, слушать плеер Нинтена, общаться с новыми людьми и сражаться с новыми противниками в игре, отдающей честь классике, с которой всё началось."
+    "de": "Begleite Ninten, Ana, Lloyd, Teddy und eine verrückte Rothaarige auf eine Reise quer durch Amerika! Auf der Suche nach acht Melodien für Königin Mary, und um den abscheulichen Giygas daran zu hindern, die Menschheit in Gefangenschaft zu nehmen! Mach dich bereit, neue Dungeons zu erforschen, mit neuen Mechaniken zu spielen, Nintens Walkman zu hören, mit neuen Leuten zu sprechen und neue Feinde zu bekämpfen; in dieser Zelebrierung des Spiels, mit dem alles begann.",
+    "ru": "Присоединяйтесь к Нинтену, Ане, Ллойду, Тедди и какой-то рыжей сумасшедшей девочке, чтобы обойти всю Америку! Отправляйтесь на поиски Восьми мелодий для королевы Марии и не дайте ужасному Гийгасу захватить человечество! Приготовьтесь исследовать новые подземелья, знакомиться с новыми механиками, слушать плеер Нинтена, общаться с новыми людьми и сражаться с новыми противниками в игре, отдающей честь классике, с которой всё началось."
   },
   "SITE_HOME_CAST": {
     "en": "Cast",
@@ -145,7 +145,7 @@
   },
   "SITE_HOME_NINTEN_1": {
     "en": "This is you! A boy from Podunk with a hand for baseball and a burning drive to uncover the mystery about his missing great-grandparents. Ninten’s favourite thing after a busy day is to go home, tuck into some prime ribs, and play Penguin Bonanza on his NES.",
-    "fr": "C’est vous ! Un jeune garçon de Podunk avec un certain talent pour le baseball et un désir brûlant, celui d’élucider le mystère de la disparition de ses arrières-grands-parents. Après une journée bien remplie, Ninten aime tout particulièrement retrouver sa maison, savourer une délicieuse côte de bœuf et jouer à Penguin Bonanza sur sa NES.",
+    "fr": "C’est vous ! Un jeune garçon de Podunk avec un certain talent pour le baseball et un désir brûlant, celui d’élucider le mystère de la disparition de ses arrière-grands-parents. Après une journée bien remplie, Ninten aime tout particulièrement retrouver sa maison, savourer une délicieuse côte de bœuf et jouer à Penguin Bonanza sur sa NES.",
     "it": "Sei tu! Un ragazzo di Podunk con la passione per il baseball un ardente desiderio di svelare il mistero della scomparsa dei suoi bisnonni. Dopo una giornata impegnativa, Ninten ama tornare a casa, divorare un po’ costolette e giocare a Penguin Bonanza sul suo NES.",
     "ja": "今作の主人公！野球好きで、行方不明の曽祖父母の謎を解き明かそうとする、マザーズデイ出身の少年。ニンテンの一日の楽しみは、家に帰ってプライムリブを食べて、ファミコンで『ペンギン・ボナンザ』をプレイすることだ。",
     "ko": "당신입니다! 야구를 좋아하는 마더즈데이의 평범한 소년으로, 실종된 증조부모님에 대한 미스터리를 알아내기 위해 모험을 하고 있습니다. 바쁜 여행 후에는 집으로 돌아가 소갈비를 뜯으며, NES로 펭귄 라이더를 하는 것이 소소한 낙입니다.",
@@ -153,19 +153,19 @@
     "pt_BR": "É você! Um menino de Podunk, jogador de beisebol, com um desejo ardente de descobrir o mistério de seus bisavós desaparecidos. A coisa que Ninten mais gosta de fazer depois de um longo dia é chegar em casa, comer uma bela costeleta e jogar Penguin Bonanza no seu Nintendinho.",
     "pl": "To jesteś ty! Chłopak z Podunk z zacięciem do baseballu i zapałem do odkrycia tajemnicy zaginionych pradziadków. Po ciężkim dniu Ninten najchętniej wraca do domu, zajada się żeberkami i gra w Penguin Bonanza na swoim NES-ie.",
     "de": "Das bist du! Ein Junge aus Podunk mit einem Händchen für Baseball und dem brennenden Wunsch, das Geheimnis um seine verschwundenen Urgroßeltern zu lüften. Nintens Lieblingsbeschäftigung nach einem anstrengenden Tag ist es, nachhause zu gehen, erstklassigen Rostbraten zu essen und Penguin Bonanza auf seinem NES zu spielen.",
-    "ru": "Это вы! Мальчик из Поданка, увлекающийся бейсболом и жаждущий раскрыть тайну о своих пропавших прабабушке и прадедушке. После тяжёлого дня Нинтен любит прийти домой, поесть рёбрышек и сыграть в Penguin Bonanza на своей NES."
+    "ru": "Это вы! Мальчик из Поданка, увлекающийся бейсболом и жаждущий раскрыть тайну пропажи своих прабабушки и прадедушки. После тяжёлого дня Нинтен любит прийти домой, поесть рёбрышек и сыграть в Penguin Bonanza на своей NES."
   },
   "SITE_HOME_NINTEN_2": {
     "en": "All hope of uncovering what happened to his great-grandparents were lost *until he found a certain diary...*",
-    "fr": "Tout espoir de découvrir ce qui était advenu de ses arrières-grands-parents semblait perdu, *jusqu’à ce qu’il trouve un certain journal…*",
+    "fr": "Tout espoir de découvrir ce qui était advenu de ses arrière-grands-parents semblait perdu, *jusqu’à ce qu’il trouve un certain journal…*",
     "it": "Tutte le speranze di scoprire cosa fosse successo ai suoi bisnonni erano sfumate, *finché non ha trovato un certo diario...*",
     "ja": "ある日記を見つけるまでは、曽祖父母に何が起こったのかはずっと謎のままだった・・・。",
     "ko": "그의 증조부모에게 무슨 일이 일어났는지는 영원히 알 수 없었습니다. *그가 어떤 일기를 발견하기 전까지는...*",
     "es": "Toda esperanza de descubrir lo ocurrido con sus bisabuelos estaba perdida *hasta que encontró cierto diario...*",
     "pt_BR": "Todas as esperanças de descobrir o que aconteceu com os seus bisavós se foram *até que ele encontrou um certo diário...*",
     "pl": "Cała nadzieja na odkrycie, co stało się z jego pradziadkami, przepadła, *dopóki nie znalazł pewnego pamiętnika...*",
-    "de": "Jede Hoffnung, herauszufinden, was mit seinen Urgroßeltern geschah, war verloren, *bis er ein bestimmtes Tagebuch fand ...*",
-    "ru": "Казалось бы, вся его надежда узнать, что произошло с прабабушкой и прадедушкой, была потеряна, *пока он не нашёл некий дневник...*"
+    "de": "Jede Hoffnung herauszufinden was mit seinen Urgroßeltern geschah, war verloren *bis er ein bestimmtes Tagebuch fand ...*",
+    "ru": "Он уже думал, что никогда не узнает, что произошло с прабабушкой и прадедушкой, *пока не обнаружил некий дневник...*"
   },
   "SITE_HOME_LLOYD_TITLE": {
     "en": "Lloyd",
@@ -189,7 +189,7 @@
     "pt_BR": "À primeira vista, parece um nerd fracote, mas Lloyd nunca desiste de uma aventura! Graças a seu interesse por máquinas e eletrônicos, Lloyd é mais do que capaz de lutar lado a lado com seus amigos em batalha usando suas armas mortíferas maneiras.",
     "pl": "Z pozoru wydaje się być tchórzliwym kujonem, ale Lloyd nie jest gotowy, by zrezygnować z przygody! Dzięki zainteresowaniu maszynami i elektroniką, Lloyd jest bardziej niż zdolny do walki u boku swoich przyjaciół w bitwie ze swoją zabójczo fajną bronią.",
     "de": "Oberflächlich betrachtet scheint er ein feiger Nerd zu sein, aber Lloyd ist nicht bereit das Abenteuer aufzugeben! Dank seiner Interesse an Maschinen und Elektronik ist Lloyd mehr als fähig, an der Seite seiner Freunde mit seinen tödlich coolen Waffen in die Schlacht zu ziehen.",
-    "ru": "Это только кажется, что он трусливый ботан, — на деле Ллойд вовсе не боится новых приключений! Благодаря своему интересу к технике и электронике он вполне способен сражаться бок о бок со своими друзьями, имея при себе крутое смертоносное оружие."
+    "ru": "Это только кажется, что он трусливый ботан, — на деле Ллойд вовсе не боится новых приключений! Благодаря своему интересу к технике и электронике он вполне способен сражаться бок о бок со своими друзьями, имея при себе крутое смертоносное оружие."
   },
   "SITE_HOME_LLOYD_2": {
     "en": "Lloyd spent many years suffering bullying, *but all it takes is a friend to come along to unlock his potential.*",
@@ -200,8 +200,8 @@
     "es": "Lloyd pasó muchos años sufriendo bullying, *pero sólo le hace falta un amigo para liberar su potencial.*",
     "pt_BR": "Lloyd passou muitos anos sofrendo bullying, *mas tudo que ele precisava era de um amigo para desbloquear seu verdadeiro potencial.*",
     "pl": "Lloyd przez wiele lat cierpiał z powodu prześladowań, *ale wystarczy, że pojawi się przyjaciel, który uwolni jego potencjał.*",
-    "de": "Lloyd hat viele Jahre lang unter Mobbing gelitten, *aber alles, was er braucht, ist ein Freund, der sein Potenzial freisetzt.*",
-    "ru": "Ллойд долгие годы подвергался травле со стороны одноклассников, *но всё, что было нужно, — это друг, который раскроет весь его потенциал.*"
+    "de": "Lloyd hat viele Jahre lang unter Mobbing gelitten, *aber alles was er braucht, ist ein Freund, der sein Potenzial freisetzt.*",
+    "ru": "Ллойд долгие годы подвергался травле со стороны одноклассников, *но всё, что было нужно, — это друг, который раскроет весь его потенциал.*"
   },
   "SITE_HOME_ANA_TITLE": {
     "en": "Ana",
@@ -225,7 +225,7 @@
     "pt_BR": "Um amor de menina que vive em Snowman. Possui um grande arsenal de ataques psíquicos ofensivos e muitas formas ajudar em batalha. Desde que sua querida mãe desapareceu, Ana fará qualquer coisa para encontrá-la.",
     "pl": "Uprzejma, młoda dziewczyna ze Snowman. Jest wyposażona w ogromny wachlarz ofensywnych ataków psi, a także wiele sposobów na pomoc w walce. Ponieważ jej ukochana matka zaginęła, Ana zrobi wszystko, by ją odnaleźć.",
     "de": "Ein höfliches junges Mädchen aus Snowman. Sie ist mit einer Vielzahl von offensiven Psi-Angriffen bewaffnet und verfügt über viele Möglichkeiten, im Kampf zu helfen. Seit ihre geliebte Mutter verschwunden ist, tut Ana alles um sie zu finden.",
-    "ru": "Вежливая девочка из города Сноумена. Она владеет огромным набором психоатак и многими способами может выручить в битве. С тех пор, как её любимая мама пропала, Ана готова сделать всё, чтобы отыскать её."
+    "ru": "Вежливая девочка из города Сноумена. Она владеет огромным набором психоатак и всегда готова выручить в битве. С тех пор как её любимая мама пропала, Ана готова сделать всё, чтобы отыскать её."
   },
   "SITE_HOME_ANA_2": {
     "en": "Ana discovered her powers at a young age and has tried to repress them ever since, but when adventure calls, *she must make the decision on whether to use them.*",
@@ -237,7 +237,7 @@
     "pt_BR": "Ana descobriu seus poderes numa idade muito jovem e tentou reprimi-los desde então, mas quando a aventura chama, *ela precisa decidir se deve usá-los ou não.*",
     "pl": "Ana odkryła swoje moce w młodym wieku i od tego czasu próbowała je stłumić, ale kiedy przygoda wzywa, *musi podjąć decyzję, czy ich użyć, czy nie.*",
     "de": "Ana entdeckte ihre Kraft in jungen Jahren und hat seitdem versucht sie zu unterdrücken. Aber wenn das Abenteuer ruft, *muss sie die Entscheidung treffen, ob sie sie einsetzen will.*",
-    "ru": "Ана узнала о своих способностях ещё в раннем детстве и с тех пор пытается их сдерживать — но в предверии приключения *ей нужно задуматься о том, чтобы дать им волю*."
+    "ru": "Ана узнала о своих способностях ещё в раннем детстве и с тех пор пытается их сдерживать — но в преддверии важного приключения *ей стоит задуматься о том, чтобы дать им волю*."
   },
   "SITE_HOME_TEDDY_TITLE": {
     "en": "Teddy",
@@ -260,8 +260,8 @@
     "es": "El jefe de una banda de la gran ciudad que masca tabaco y empuña cuchillos. No hay enemigo que se le resista al rey de los Black Blood. Además de sus años de crímenes y lucha para realzar su aspecto amenazador, nunca le puede faltar su fiel cuchillo.",
     "pt_BR": "Líder de gangue da cidade grande, ele carrega uma faca e vive mascando tabaco. Os inimigos não têm nenhuma chance contra o rei dos Sangue Pretos. Junto com anos de brigas e crimes para manter sua reputação intimidadora, ele nunca sai de casa sem sua fiel faca.",
     "pl": "Uzbrojony w nóż, żujący tytoń przywódca gangu z wielkiego miasta! Żaden wróg nie ma szans z królem gangu Czarnej Krwi. Wraz z latami przestępstw i walki, aby poprzeć swój groźny wygląd, nigdy nie jest bez swojego zaufanego noża w gotowości.",
-    "de": "Ein messerschwingender, Tabak-kauender Bandenchef aus der Großstadt! Kein Feind hat eine Chance gegen den König der Black Bloods. Neben jahrelanger Verbrechens- und Kampferfahrung, die sein bedrohliches Aussehen untermauern, ist er nie ohne sein treues Messer zu finden.",
-    "ru": "Главарь банды из большого города с ножиком в руке и табаком под губой! Ни один противник не устоит перед королём банды Чернокровов! Известный своей грозной внешностью и многолетним криминальным опытом, он никогда не расставался со своим верным ножом."
+    "de": "Ein messerschwingender, Tabak kauender Bandeboss aus der Großstadt! Kein Feind hat eine Chance gegen den König der Black Bloods. Neben jahrelanger Verbrechens- und Kampferfahrung, die sein bedrohliches Aussehen untermauern, ist er nie ohne sein treues Messer zu finden.",
+    "ru": "Главарь банды из большого города — всегда с ножиком в руке и табаком под губой! Ни один противник не устоит перед королём банды Чернокровов! Известный своей грозной внешностью и многолетним криминальным опытом, он никогда не расставался со своим верным ножом."
   },
   "SITE_HOME_TEDDY_2": {
     "en": "Though... he wasn’t always like this. *Maybe he isn’t rotten to the core.*",
@@ -273,7 +273,7 @@
     "pt_BR": "Mas... ele nem sempre foi desse jeito. *Talvez, lá no fundo, ele não uma pessoa ruim.*",
     "pl": "Chociaż... nie zawsze taki był. *Może nie jest zepsuty do szpiku kości.*",
     "de": "Wobei ... das war nicht immer so. *Vielleicht ist er nicht durch und durch verdorben.*",
-    "ru": "Хотя... он не всегда был таким. *Может быть, он не такой уж и гнилой человек.*"
+    "ru": "Хотя... он не всегда был таким. *Может быть, он не такой уж и гнилой человек.*"
   },
   "SITE_HOME_GALLERY": {
     "en": "Gallery",
@@ -297,7 +297,7 @@
     "pt_BR": "Então, o que *é* MOTHER: Encore?",
     "pl": "Czym zatem *jest* MOTHER: Encore?",
     "de": "Also, was *ist* MOTHER: Encore?",
-    "ru": "Итак, что *такое* MOTHER: Encore?"
+    "ru": "Итак, что же такое MOTHER: Encore?"
   },
   "SITE_ABOUT_BODY_1": {
     "en": "A re-imagining of MOTHER with all new content, tweaks and remastered visuals. The soundtrack features remakes from the original game along with brand new pieces! The battle system is also built from the ground up to give each battle a more polished experience. The story adds more depth to the characters you love. The maps have no dead-ends or pesky mazes, and the world is filled with countless little touches to really bring Eagleland to life.",
@@ -308,8 +308,8 @@
     "es": "Una reimaginación de MOTHER con nuevo contenido, retoques y gráficos remasterizados. La banda sonora incluye canciones del juego original y piezas totalmente nuevas. El sistema de batalla también se ha creado desde cero para que cada combate sea una experiencia más pulida. La historia añade más profundidad a los personajes que amas. El mapa no tiene callejones sin salida ni laberintos molestos, y el mundo está lleno de innumerables pequeños detalles que le dan vida a Eagleland.",
     "pt_BR": "Uma reimaginação de MOTHER com conteúdo completamente novo, melhorias e visuais aprimorados. A trilha sonora inclui músicas refeitas do jogo original, além de faixas totalmente inéditas! O sistema de batalha também foi refeito do zero para dar mais fluidez à jogabilidade. A história se aprofunda mais nos personagens que você ama, os mapas não têm mais becos sem saída ou labirintos chatos, e o mundo é cheio de pequenos detalhes que dão vida à América.",
     "pl": "Odświeżona wersja gry MOTHER z zupełnie nową zawartością, poprawkami i zremasterowaną oprawą wizualną. Ścieżka dźwiękowa zawiera rearanżacje z oryginalnej gry oraz zupełnie nowe utwory! System walki również został zbudowany od podstaw, aby każda bitwa była bardziej dopracowana. Opowieść dodaje więcej głębi postaciom, które kochasz. Mapy nie mają ślepych zaułków ani irytujących labiryntów, a świat pełen jest niezliczonych drobiazgów, które naprawdę ożywiają Amerykę.",
-    "de": "Eine Neuinterpretation von MOTHER mit völlig neuen Inhalten, Optimierungen und überarbeiteter Grafik. Der Soundtrack enthält Remakes aus dem Originalspiel sowie brandneue Stücke! Das Kampfsystem wurde ebenfalls von Grund auf neu entwickelt, um jeden Kampf zu einem ausgefeilten Erlebnis zu machen. Die Geschichte verleiht den Charakteren, die du liebst, mehr Tiefe. Die Karten haben keine Sackgassen oder lästige Labyrinthe, und die Welt ist mit unzähligen kleinen Details ausgestattet, die Amerika wirklich zum Leben erwecken.",
-    "ru": "Это переосмысление видеоигры MOTHER с новым контентом, улучшениями и обновлённой графикой. Саундтрек включает в себя помимо ремиксов музыки из оригинальной игры ещё и несколько новых треков! Боевая система была создана с нуля, дабы сделать каждую битву наиболее проработанной и интересной, а сюжет придаёт больше глубины вашим любимым персонажам! На картах нет тупиков или надоедающих лабиринтов, а мир наполнен бесчисленными деталями, которые по-настоящему оживляют Америку."
+    "de": "Eine Neuinterpretation von MOTHER mit völlig neuen Inhalten, Optimierungen und überarbeiteter Grafik. Der Soundtrack enthält Remakes aus dem Originalspiel sowie brandneue Stücke! Das Kampfsystem wurde ebenfalls von Grund auf neu gestaltet, um jeden Kampf zu einem ausgefeilten Erlebnis zu machen. Die Geschichte verleiht den Charakteren die du liebst, mehr Tiefe. Die Karten haben keine Sackgassen oder lästige Labyrinthe, und die Welt ist mit unzähligen kleinen Details ausgestattet, die Amerika wirklich zum Leben erwecken.",
+    "ru": "Это переосмысление видеоигры MOTHER с новым контентом, улучшениями и обновлённой графикой. Саундтрек, помимо ремиксов музыки из оригинальной игры, включает в себя ещё и несколько новых треков! Боевая система была создана с нуля, дабы каждая битва была ещё более проработанной и интересной, а сюжет придаёт больше глубины вашим любимым персонажам. На картах нет тупиков или надоедающих лабиринтов, а мир наполнен бесчисленными деталями, которые по-настоящему оживят Америку!"
   },
   "SITE_ABOUT_BODY_2": {
     "en": "Originally beginning as the “MOTHER 30th Anniversary edition”, The scope of the project expanded to the point of becoming no longer a straight remake, but instead becoming a reimagining that intends to redesign the game for returning and new players alike!",
@@ -321,7 +321,7 @@
     "pt_BR": "Iniciado originalmente como “MOTHER Edição de 30º Aniversário”, a premissa do projeto expandiu tanto que deixou de ser um remake direto e tornou-se uma reimaginação que busca recriar o jogo tanto para jogadores novos quanto para os veteranos!",
     "pl": "Pierwotnie opracowywana jako “MOTHER 30th Anniversary Edition”, zakres projektu rozszerzył się do tego stopnia, że nie jest już prostym remakiem, ale zamiast tego staje się nowym wyobrażeniem, które zamierza przeprojektować grę zarówno dla weteranów, jak i nowych graczy!",
     "de": "Ursprünglich als \"MOTHER 30th Anniversary Edition\" gestartet, hat sich der Umfang des Projekts so weit ausgeweitet, dass es sich nicht mehr um ein reines Remake handelt, sondern um eine Neuinterpretation, die das Spiel sowohl für alte als auch für neue Spieler neu gestalten soll!",
-    "ru": "Изначально проект создавался как MOTHER 30th Anniversary edition, но его рамки расширились настолько, что он перестал быть прямым ремейком, вместо этого став переосмыслением, цель которого привлечь внимание как ветеранов, так и новых игроков!"
+    "ru": "Изначально проект создавался как MOTHER 30th Anniversary edition, но его рамки расширились настолько, что он из простого ремейка превратился в переосмысление, цель которого — привлечь внимание как ветеранов, так и новых игроков!"
   },
   "SITE_ABOUT_BODY_3": {
     "en": "The game started development in RPG MAKER VX ACE. This engine allowed for easy development at first but once became troublesome when trying to execute our more ambitious plans. The game was then rebuilt in Godot and within a few months has already far exceeded the original RPG MAKER version. This change to Godot and leaving the code open source also leaves the game open to community-made ports to other systems. Many advanced effects that were impossible to do originally now shine on Godot.",
@@ -333,7 +333,7 @@
     "pt_BR": "O jogo começou seu desenvolvimento no RPG Maker VX Ace. Esta ferramenta permitiu uma facilidade no desenvolvimento no início, mas se tornou problemática ao tentar executar nossos planos mais ambiciosos. O jogo então foi refeito em Godot e, em poucos meses, ultrapassou a qualidade da versão inicial de RPG Maker. A mudança para Godot e a decisão de deixar o código aberto permitirá que ports sejam criados pela comunidade para diferentes sistemas. Muitos efeitos avançados que antes eram impossíveis agora brilham no Godot.",
     "pl": "Prace nad grą rozpoczęły się w RPG MAKER VX ACE. Silnik ten pozwolił na łatwy rozwój na początku, ale stał się kłopotliwy, gdy próbowaliśmy zrealizować nasze bardziej ambitne plany. Gra została następnie przebudowana na silniku Godot i w ciągu kilku miesięcy znacznie przewyższyła oryginalną wersję z RPG MAKER-a. Zmiana silnika i pozostawienie otwartego kodu źródłowego pozostawia również grę otwartą na porty tworzone przez społeczność na inne systemy. Wiele zaawansowanych efektów, które pierwotnie były niemożliwe do wykonania, teraz błyszczą.",
     "de": "Die Entwicklung des Spiels begann im RPG MAKER VX ACE. Diese Engine ermöglichte anfangs eine einfache Entwicklung, wurde aber irgendwann problematisch, als wir versuchten, unsere ehrgeizigeren Pläne umzusetzen. Das Spiel wurde dann in Godot neu aufgebaut und hat innerhalb weniger Monate die ursprüngliche RPG MAKER-Version bereits weit übertroffen. Der Wechsel zu Godot und die Offenlegung des Quellcodes lassen das Spiel auch offen für Portierungen durch die Community auf andere Systeme. Viele fortgeschrittene Effekte, die ursprünglich nicht möglich waren, glänzen jetzt auf Godot.",
-    "ru": "Разработка игры началась на RPG MAKER VX ACE. Этот движок очень прост в использовании, однако весьма ограничен в возможностях для воплощения наших более амбициозных планов. Позже игра была воссоздана в Godot, и через несколько месяцев она уже превзошла изначальную версию, созданную на RPG MAKER. Переход на Godot и решение сделать исходный код открытым также позволит членам сообщества портировать игру на другие системы. А многие продвинутые визуальные эффекты, которые изначально было невозможно сделать на старом движке, теперь возможно реализовать на Godot."
+    "ru": "Разработка игры началась на RPG MAKER VX ACE. Этот движок очень прост в использовании, однако чем амбициознее становились наши цели, тем больше он начинал нас сковывать. Позже игра была воссоздана на Godot и всего спустя несколько месяцев превзошла изначальную версию, созданную на RPG MAKER. Переход на Godot и решение сделать исходный код открытым также позволят членам сообщества портировать игру на другие системы. А многие сложные визуальные эффекты, которые изначально было невозможно сделать на старом движке, теперь красуются в игре благодаря Godot."
   },
   "SITE_ABOUT_BODY_4": {
     "en": "*Did we mention the game will be open source?* Players will be able to easily create mods and translations. You can also use the code for your own fangames! (Just credit us though.)",
@@ -345,7 +345,7 @@
     "pt_BR": "*Já mencionamos que o código do jogo é aberto?* Jogadores poderão criar mods e traduções para o jogo facilmente. Você também poderá usar o código para seus próprios jogos! (Só não se esqueça de dar créditos a nós.)",
     "pl": "*Czy wspominaliśmy już, że gra będzie open source?* Gracze będą mogli łatwo tworzyć mody i tłumaczenia. Można także użyć kodu do własnych gier fanowskich! (Wystarczy tylko o nas dać znać.)",
     "de": "*Haben wir schon erwähnt, dass das Spiel Open Source sein wird?* Die Spieler können ganz einfach Mods und Übersetzungen erstellen. Sie können den Code auch für eigene Fangames verwenden! (Nennt uns aber als Quelle.)",
-    "ru": "*Мы уже упоминали о том, что игра будет с открытым исходным кодом?* Игроки с лёгкостью смогут создавать модификации и переводы. Также вы сможете использовать код для своих собственных фан-игр! (Только не забудьте указать нас.)"
+    "ru": "*Мы уже упоминали о том, что игра будет с открытым исходным кодом?* Игроки с лёгкостью смогут создавать свои модификации и переводы. Также вы сможете использовать код для собственных фан-игр! (Только не забудьте указать нас.)"
   },
   "SITE_ABOUT_REQ_OS": {
     "en": "OS",
@@ -397,7 +397,7 @@
   },
   "SITE_ABOUT_REQ_VIDEO": {
     "en": "VIDEO CARD",
-    "fr": "Carte vidéo",
+    "fr": "Carte graphique",
     "it": "SCHEDA GRAFICA",
     "ja": "グラフィックボード",
     "ko": "그래픽 카드",
@@ -418,6 +418,30 @@
     "pl": "Kompatybilna z OpenGL 2.1",
     "de": "OpenGL 2.1",
     "ru": "Совместимость с OpenGL 2.1"
+  },
+  "SITE_ABOUT_REQ_LANGUAGES": {
+    "en": "Languages",
+    "fr": "Langues",
+    "it": "Lingue",
+    "ja": "言語",
+    "ko": "언어",
+    "es": "Idiomas",
+    "pt_BR": "Idiomas",
+    "pl": "Języki",
+    "de": "Sprachen",
+    "ru": "Языки"
+  },
+  "SITE_ABOUT_REQ_LANGUAGES_DETAILS": {
+    "en": "English, Japanese, French, Spain Spanish, Latin American Spanish, Brazilian Portuguese, Italian, German, Polish, Russian, Korean",
+    "fr": "Anglais, japonais, français, espagnol d’Espagne, espagnol d’Amérique latine, portugais brésilien, italien, allemand, polonais, russe, coréen",
+    "it": "Inglese, giapponese, francese, spagnolo (Spagna), spagnolo (America), Portoghese brasiliano, italiano, tedesco, polacco, russo, coreano",
+    "ja": "英語、日本語、フランス語、スペイン語（スペイン）、スペイン語（ラテンアメリカ）、ポルトガル語（ブラジル）、イタリア語、ドイツ語、ポーランド語、ロシア語、韓国語",
+    "ko": "영어, 일본어, 프랑스어, 유럽 스페인어, 라틴 아메리카 스페인어, 브라질 포르투갈어, 이탈리아어, 독일어, 폴란드어, 러시아어, 한국어",
+    "es": "Inglés, japonais, francés, español castellano, español latino, portugués brasileño, italiano, alemán, polaco, ruso, coreano",
+    "pt_BR": "Inglês, japonês, francês, espanhol da Espanha, espanhol hispano-americano, português brasileiro, italiano, alemão, polonês, russo, coreano",
+    "pl": "Angielski, japoński, francuski, hiszpański z Hiszpanii, hiszpański z Ameryki, portugalski brazylijski, włoski, niemiecki, polski, rosyjski, koreański",
+    "de": "Englisch, Japanisch, Französisch, Spanisch, Lateinamerikanisch, Brasilianisches Portugiesisch, Italienisch, Deutsch, Polnisch, Russisch, Koreanisch",
+    "ru": "Английский, японский, французский, испанский, испанский (Латинская Америка), бразильский португальский, итальянский, немецкий, польский, русский, корейский"
   },
   "SITE_ABOUT_MUSIC_TITLE": {
     "en": "Music",
@@ -441,7 +465,7 @@
     "pt_BR": "Música sempre foi um aspecto importante para a série MOTHER, e isso não mudou nem um pouco em nosso projeto. Todas as músicas originais receberam um novo arranjo para combinar com o intuito de reimaginar o jogo, mas também há algumas músicas inéditas. Viaje ao som de The Paradise Line e Roving Tank, e lute contra vários inimigos de natureza retrô, perturbadora ou até alienígena.",
     "pl": "Muzyka zawsze była ważnym aspektem serii MOTHER i nie zmieniło się to w najmniejszym stopniu. Każdy utwór z oryginalnej gry otrzymał zupełnie nową aranżację, aby naprawdę pasowała do celu, jakim jest ponowne wyobrażenie sobie gry, ale jest też kilka nowych utworów. Podróżuj w rytm takich utworów jak The Paradise Line i Roving Tank i walcz z różnymi wrogami w stylu retro, niepokojącymi, a nawet obcymi.",
     "de": "Die Musik war schon immer ein wichtiger Aspekt der MOTHER-Serie und das hat sich auch hier nicht geändert. Jeder Song aus dem Originalspiel wurde neu arrangiert, um dem Ziel der Neuinterpretation des Spiels gerecht zu werden, aber es gibt auch einige neue Stücke. Reise mit rockigen Melodien wie \"The Paradise Line\" und \"Roving Tank\" umher und kämpfe gegen verschiedene Feinde, die nostalgisch, beunruhigend oder sogar außerirdisch sind.",
-    "ru": "Музыка всегда была важной частью серии MOTHER, и наш проект не стал исключением. Каждый трек из оригинала получил новую аранжировку, которая соответствует нашей цели переосмысления игры, а помимо этого будут ещё и несколько новых. Путешествуйте по миру под такие клёвые мелодии как The Paradise Line и Roving Tank, а также сразитесь с разношёрстными противниками: одни в стиле ретро, вторые вызывают тревогу, а третьи вообще с другой планеты!"
+    "ru": "Музыка всегда была неотъемлемой частью серии MOTHER, и наш проект не стал обходить её стороной. Каждый трек из оригинала получил новую аранжировку, подходящую под наше переосмысление игры, но также вы услышите и несколько новых треков. Путешествуйте по миру под такие заводные мелодии, как The Paradise Line и Roving Tank, а также сразитесь с разношёрстными противниками: одни в стиле ретро, вторые вызывают тревогу, а третьи — вообще с другой планеты!"
   },
   "SITE_ABOUT_MUSIC_CREDITS": {
     "en": "Be sure to check out [Owen (@McThrillington)](https://twitter.com/McThrillington) and [Copper (@copperthejackal)](https://twitter.com/copperthejackal).",
@@ -465,7 +489,7 @@
     "pt_BR": "(Owen está aceitando comissões de música no momento)",
     "pl": "(Owen przyjmuje obecnie zlecenia muzyczne)",
     "de": "(Owen nimmt derzeitig Musikaufträge an)",
-    "ru": "(В данный момент Owen принимает заказы на музыку)"
+    "ru": "(В данный момент Owen принимает заказы на музыку)"
   },
   "SITE_ABOUT_MUSIC_COPPER_FACT": {
     "en": "(Check out CopperTheJackal’s game, Hypersomnia)",
@@ -477,7 +501,7 @@
     "pt_BR": "(Dê uma olhada no jogo de CopperTheJackal, Hypersomnia)",
     "pl": "(Sprawdź grę Coppera, Hypersomnia)",
     "de": "(Schau dir auch CopperTheJackals Spiel \"Hypersomnia\" an)",
-    "ru": "(Вам стоит взглянуть на игру CopperTheJackalʼа — Hypersomnia)"
+    "ru": "(Обязательно сыграйте в игру CopperTheJackalʼа — Hypersomnia)"
   },
   "SITE_ABOUT_MUSIC_PLAYER": {
     "en": "Your browser does not support the audio element.",
@@ -489,7 +513,7 @@
     "pt_BR": "O seu navegador não é compatível com este elemento de áudio.",
     "pl": "Twoja przeglądarka nie obsługuje elementu audio.",
     "de": "Dein Browser unterstützt das Audio-Element nicht.",
-    "ru": "Ваш браузер не поддерживает элемент аудио."
+    "ru": "Ваш браузер не поддерживает элемент аудио."
   },
   "SITE_ABOUT_SONG_MOTHER_EARTH": {
     "en": "Mother Earth",
@@ -597,7 +621,7 @@
     "pt_BR": "MOTHER: Encore é um jogo licenciado oficialmente pela Nintendo?",
     "pl": "Czy MOTHER: Encore jest oficjalnie licencjonowaną grą Nintendo?",
     "de": "Ist MOTHER: Encore ein offiziell lizenziertes Nintendo-Spiel?",
-    "ru": "MOTHER: Encore — это лицензированная Nintendo игра?"
+    "ru": "MOTHER: Encore лицензирована компанией Nintendo?"
   },
   "SITE_ABOUT_FAQ_A1": {
     "en": "Nope! MOTHER: Encore is a fan made project, and is in no way affiliated, associated, authorized, endorsed by, or in any way officially connected with Nintendo, Shigesato Itoi, HAL Laboratory, Inc., or any of its subsidiaries or its affiliates! This is a fan game made by the fans, for the fans! It will always remain free because of that.",
@@ -609,7 +633,7 @@
     "pt_BR": "Não! MOTHER: Encore é um projeto feito por fãs, e não é de nenhuma forma afiliado, associado, autorizado, patrocinado ou conectado oficialmente à Nintendo, Shigesato Itoi, HAL Laboratory, Inc. ou a alguma das suas subsidiárias ou afiliadas. Este é um jogo feito de fãs para fãs! E sempre será gratuito por causa disso.",
     "pl": "Nie! MOTHER: Encore to projekt tworzony przez fanów i nie jest w żaden sposób powiązany, zrzeszony, autoryzowany, wspierany ani w żaden sposób oficjalnie powiązany z Nintendo, Shigesato Itoi, HAL Laboratory, Inc. ani żadną z ich spółek zależnych lub stowarzyszonych! Jest to gra tworzona przez fanów dla fanów! Z tego powodu zawsze pozostanie darmowa.",
     "de": "Nix da! MOTHER: Encore ist ein von Fans gemachtes Projekt und ist in keiner Weise mit Nintendo, Shigesato Itoi, HAL Laboratory, Inc. oder einer ihrer Tochtergesellschaften sowie dazugehörigen Unternehmen verbunden, assoziiert, autorisiert, gebilligt oder in irgendeiner Weise offiziell mit ihnen zusammen! Dies ist ein Fan-Game, das von Fans für Fans gemacht wurde! Aus diesem Grund wird es auch immer kostenlos sein.",
-    "ru": "Никак нет! MOTHER: Encore — это фанатский проект, который не лицензирован, не ассоциирован, не авторизован, не одобрен и никаким образом не связан с Nintendo, Сигэсато Итои, HAL Laboratory, Inc. или с любыми другими дочерними компаниями и аффилированными лицами. Это фан-игра, созданная фанатами для фанатов! И по этой причине она всегда будет бесплатной."
+    "ru": "Никак нет! MOTHER: Encore — это фанатский проект, который не лицензирован, не ассоциирован, не авторизован и не одобрен Nintendo, Сигэсато Итои, HAL Laboratory, Inc. или какими-либо другими дочерними компаниями и аффилированными лицами и никаким образом с ними не связан. Это фан-игра, созданная фанатами для фанатов! И по этой причине она всегда будет бесплатной."
   },
   "SITE_ABOUT_FAQ_Q2": {
     "en": "Is this intended to replace Mother 1?",
@@ -632,8 +656,8 @@
     "es": "No, al ser una reimaginación, hay diferentes filosofías de diseño en juego. Es extremadamente difícil, puede que imposible, reimaginar algo y mantener intacto todo lo bueno del original, sobre todo cuando no eres el creador original.",
     "pt_BR": "Não, já que este jogo é uma reimaginação, as filosofias de game design usadas são diferentes. É extremamente difícil, talvez até impossível, reimaginar algo e manter intacto o que fazia o original ser tão bom, principalmente se você não é o criador original.",
     "pl": "Nie, ponieważ jest to nowe wyobrażenie, w grę wchodzą różne filozofie projektowania gier. Stworzenie czegoś na nowo i zachowanie wszystkiego, co najlepsze w oryginale, jest niezwykle trudne, a być może nawet niemożliwe, zwłaszcza gdy nie jest się twórcą oryginału.",
-    "de": "Nein, da es sich um eine Neuinterpretation handelt, sind andere Design-Philosophien im Spiel. Es ist extrem schwierig, wenn nicht sogar unmöglich, etwas neu zu erfinden und alles, was an dem Original gut war, beizubehalten, vor allem, wenn man nicht der Schöpfer des Originals ist.",
-    "ru": "Нет, так как это переосмысление, здесь используется иная философия геймдизайна. Чрезвычайно сложно, если не невозможно интерпретировать что-то, сохранив при этом всё лучшее из оригинала в неизменном виде, особенно если вы не его создатель."
+    "de": "Nein, da es sich um eine Neuinterpretation handelt, sind andere Design-Philosophien im Spiel. Es ist extrem schwierig, wenn nicht sogar unmöglich, etwas neu zu erfinden und alles, was an dem Original gut war, beizubehalten – vor allem, wenn man nicht der Schöpfer des Originals ist.",
+    "ru": "Нет: так как это переосмысление, здесь используется иная философия геймдизайна. Чрезвычайно сложно, если не невозможно интерпретировать что-то, сохранив при этом всё лучшее из оригинала в неизменном виде, если вы не являетесь напрямую его создателем."
   },
   "SITE_ABOUT_FAQ_A2_3": {
     "en": "We hope that you accept Encore as being something that compliments the original, not a replacement. Encore’s too different to be considered the “MOTHER: definitive edition.”",
@@ -645,7 +669,7 @@
     "pt_BR": "Esperamos que você aceite Encore como um complemento do original, não uma substituição. Encore é diferente demais para ser considerado um “MOTHER: Versão Definitiva”.",
     "pl": "Mamy nadzieję, że zaakceptujesz Encore jako coś, co uzupełnia oryginał, a nie go zastępuje. Encore jest zbyt odmienny, by można go było uznać za “MOTHER: Definitive Edition”.",
     "de": "Wir hoffen, dass Encore als Ergänzung zum Original gesehen wird, nicht als Ersatz. Encore ist zu unterschiedlich, um als \"MOTHER: Definitive Edition\" bezeichnet zu werden.",
-    "ru": "Мы надеемся, что вы воспримите MOTHER: Encore как дань уважения оригиналу, а не замену ему. Наш проект сильно отличается от оригинала и не может считаться чем-то вроде MOTHER: Definitive Edition."
+    "ru": "Мы надеемся, что вы воспримете MOTHER: Encore как дань уважения оригиналу, а не как замену ему. Наш проект сильно отличается от оригинала и не может считаться чем-то вроде MOTHER: Definitive Edition."
   },
   "SITE_ABOUT_FAQ_Q3": {
     "en": "Will the game be as difficult as the original?",
@@ -681,7 +705,7 @@
     "pt_BR": "Para quais plataformas MOTHER: Encore estará disponível?",
     "pl": "Na jakie platformy trafi MOTHER: Encore?",
     "de": "Auf welchen Plattformen wird MOTHER: Encore erscheinen?",
-    "ru": "На каких платформах будет MOTHER: Encore?"
+    "ru": "На каких платформах будет MOTHER: Encore?"
   },
   "SITE_ABOUT_FAQ_A4_1": {
     "en": "It will only be officially available on Windows, Mac and Linux.",
@@ -692,8 +716,8 @@
     "es": "Sólo estará disponible oficialmente en Windows, Mac y Linux.",
     "pt_BR": "Estará disponível oficialmente para Windows, Mac e Linux.",
     "pl": "Gra będzie oficjalnie dostępna tylko na Windowsa, Maca i Linuksa.",
-    "de": "Es wird offiziell nur für Windows, Mac und Linux erhältlich sein.",
-    "ru": "Она будет официально доступна только на Windows, Mac и Linux."
+    "de": "Es wird offiziell nur für Windows, Mac und Linux verfügbar sein.",
+    "ru": "Она будет официально доступна только на Windows, Mac и Linux."
   },
   "SITE_ABOUT_FAQ_A4_2": {
     "en": "Since the game will be open source, the community could port the game to other systems! We’ll encourage as many fan-ports as possible!",
@@ -705,7 +729,7 @@
     "pt_BR": "Já que o código do jogo será livre, a comunidade pode fazer ports do jogo para os outros sistemas! Encorajaremos o máximo possível de ports feitos por fãs!",
     "pl": "Ponieważ gra będzie open source, społeczność może robić porty na inne systemy! Będziemy zachęcać do jak największej liczby fanowskich portów!",
     "de": "Da das Spiel Open Source sein wird, kann die Community das Spiel auf andere Systeme portieren! Wir werden so viele Fan-Portierungen wie möglich unterstützen!",
-    "ru": "Поскольку игра будет с открытым исходным кодом, сообщество сможет портировать её на другие системы. Мы поощрим столько фанатских портов, сколько возможно!"
+    "ru": "Поскольку игра будет с открытым исходным кодом, сообщество сможет портировать её на другие системы. Мы постараемся поощрять максимально возможное количество фанатских портов!"
   },
   "SITE_ABOUT_FAQ_Q5": {
     "en": "What version of town names will you be using? (i.e. Podunk or Mother’s Day)",
@@ -717,7 +741,7 @@
     "pt_BR": "Que versão dos nomes das cidades vocês estarão usando? (Por exemplo, Podunk ou Dia das Mães?)",
     "pl": "Jakiej wersji nazw miast będziecie używać? (np. Podunk czy Mother’s Day)",
     "de": "Welche Version von Stadtnamen wird verwendet werden? (z. B. Podunk oder Mother’s Day)",
-    "ru": "Какую локализацию названий городов вы будете использовать? (к примеру Поданк или День Матери)"
+    "ru": "Какую локализацию названий городов вы будете использовать? К примеру, «Поданк» (англ.) или «День Матери» (яп.)."
   },
   "SITE_ABOUT_FAQ_A5": {
     "en": "The Phil Sandhop Translation (Podunk).",
@@ -729,7 +753,7 @@
     "pt_BR": "A tradução do Phil Sandhop (Podunk).",
     "pl": "Tłumaczenie Phila Sandhopa (Podunk).",
     "de": "Die Phil Sandhop Übersetzung. (Podunk).",
-    "ru": "Мы используем перевод Фила Сэндхопа (Поданк)."
+    "ru": "Мы используем перевод Фила Сэндхопа («Поданк»)."
   },
   "SITE_ABOUT_FAQ_Q6": {
     "en": "How can I show my support?",
@@ -752,8 +776,8 @@
     "es": "Apreciamos tu voluntad por apoyarnos. Puedes mostrar tu apoyo corriendo la voz. Pero no demasiado.",
     "pt_BR": "Nós apreciamos a sua vontade de apoiar o projeto! Você pode mostrar o seu apoio divulgando o jogo. Mas com moderação.",
     "pl": "Doceniamy twoją chęć wsparcia! Możesz okazać nam swoje wsparcie poprzez rozpowszechnianie informacji. Ale nie za dużo.",
-    "de": "Wir schätzen die Bereitschaft zur Unterstützung! Sie können Unterstützung zeigen, indem Sie über uns reden. Natürlich nicht zu viel.",
-    "ru": "Мы ценим ваше желание поддержать нас! И вы сможете это сделать, рассказав о MOTHER: Encore другим! Но только в меру."
+    "de": "Wir schätzen deine Bereitschaft zur Unterstützung! Du kannst Unterstützung zeigen, indem Du über uns redest. Natürlich nicht zu viel.",
+    "ru": "Мы рады, что вы хотите нас поддержать! И вы сможете это сделать, рассказав о MOTHER: Encore другим! Только не переусердствуйте."
   },
   "SITE_ABOUT_FAQ_Q7": {
     "en": "When is the release date?",
@@ -788,8 +812,8 @@
     "es": "¿Y si Nintendo manda una orden de...?",
     "pt_BR": "Vocês não estão com medo de receber uma notificação DMCA da Nintendo?",
     "pl": "Martwicie się o otrzymanie DMCA od Nintendo?",
-    "de": "Besteht Grund zur Sorge, eine Unterlassungserklärung von Nintendo zu erhalten?",
-    "ru": "Боитесь ли вы получить жалобу на нарушение АП от Nintendo?"
+    "de": "Besteht Grund zur Sorge eine Unterlassungserklärung von Nintendo zu erhalten?",
+    "ru": "Боитесь ли вы получить за нарушение авт. прав от Nintendo?"
   },
   "SITE_ABOUT_FAQ_A8": {
     "en": "Not really.",
@@ -837,7 +861,7 @@
     "pt_BR": "Encore terá combos musicais?",
     "pl": "Czy Encore będzie miał rytmiczne combosy?",
     "de": "Wird es in Encore Rhythmus-Kombinationen geben?",
-    "ru": "Будет ли у MOTHER: Encore механика ритм-комбо?"
+    "ru": "Будет ли у MOTHER: Encore механика ритм-комбо?"
   },
   "SITE_ABOUT_FAQ_A10": {
     "en": "Nope, Mother Encore’s battle themes were not made with rhythm combos in mind.",
@@ -849,7 +873,7 @@
     "pt_BR": "Não, as músicas de batalha de MOTHER Encore não foram feitas com esse propósito em mente.",
     "pl": "Nie, motywy bitewne Mother Encore nie zostały stworzone z myślą o rytmicznych combosach.",
     "de": "Nein, die Kampfthemen von Mother Encore wurden nicht mit Blick auf Rhythmuskombinationen entwickelt.",
-    "ru": "Не-а, музыка из битв в MOTHER: Encore написана без учёта этой механики."
+    "ru": "Не-а, музыка из битв в MOTHER: Encore написана без учёта этой механики."
   },
   "SITE_ABOUT_FAQ_Q11": {
     "en": "Will this be playable on the GBA? Is this a romhack of Mother 3?",
@@ -861,7 +885,7 @@
     "pt_BR": "O jogo estará disponível no GBA? É uma romhack de MOTHER 3?",
     "pl": "Będzie to grywalne na GBA? Czy to romhack Mother 3?",
     "de": "Wird das Spiel auf dem GBA spielbar sein? Ist es ein Romhack von Mother 3?",
-    "ru": "Получится ли в неё сыграть на Gameboy Advance? Это ромхак на Mother 3?"
+    "ru": "Получится ли в неё сыграть на Gameboy Advance? Это ромхак на Mother 3?"
   },
   "SITE_ABOUT_FAQ_A11": {
     "en": "No, the game is being developed using Godot and will be released on pc. Besides, Mother 3 rom hacking isn’t nearly advanced enough considering Mother Encore’s ambition.",
@@ -873,7 +897,7 @@
     "pt_BR": "Não, o jogo está sendo desenvolvido usando Godot e será lançado para computadores. Além disso, romhacks de MOTHER 3 não são avançadas o suficiente, considerando a ambição de MOTHER: Encore.",
     "pl": "Nie, gra jest tworzona przy użyciu silnika Godot i zostanie wydana na PC. Poza tym, romhacking Mother 3 nie jest zbytnio zaawansowany, biorąc pod uwagę ambicje Mother Encore.",
     "de": "Nein, das Spiel wird mit Godot entwickelt und wird auf dem PC veröffentlicht werden. Außerdem ist das Hacken der Mother 3-Rom nicht annähernd fortschrittlich genug, wenn man die Ambitionen von Mother Encore bedenkt.",
-    "ru": "Нет, игра разрабатывается на движке Godot и будет выпущена на ПК. К тому же ромхакинг Mother 3 ещё не настолько продвинут, учитывая амбициозность проекта MOTHER: Encore."
+    "ru": "Нет, игра разрабатывается на движке Godot и будет выпущена на ПК. К тому же ромхакинг Mother 3 ещё не настолько продвинут, учитывая амбициозность проекта MOTHER: Encore."
   },
   "SITE_ABOUT_DL_TITLE": {
     "en": "Download? But the game’s not done.",
@@ -885,7 +909,7 @@
     "pt_BR": "Download? Mas o jogo ainda não está pronto.",
     "pl": "Można pobrać? Ale gra nie jest skończona.",
     "de": "Download? Aber das Spiel ist noch nicht fertig.",
-    "ru": "Уже можно «скачать»? Но игра же ещё не готова."
+    "ru": "А что значит «скачать»? Игра же ещё не готова."
   },
   "SITE_ABOUT_DL_INTRO_1": {
     "en": "Yes. The full game is not complete, but as a special treat for the 2023 Mother Direct, the Encore team has been hard at work to finish a demo for any fans or interested watchers to play! We can’t thank everyone who’s supported this project over the past few years enough for their support, so we hope this shows our gratitude.",
@@ -897,7 +921,7 @@
     "pt_BR": "É. O jogo ainda não está completo, mas como um pequeno brinde do Mother Direct de 2023, a equipe do Encore trabalhou duro para preparar uma demo para todos os fãs ou espectadores interessados jogarem! Não temos palavras para agradecer todos que apoiaram o projeto pelos últimos anos, então esperamos que isto mostre a nossa gratidão.",
     "pl": "Tak, pełna wersja gry nie jest skończona, ale jako specjalną gratkę z okazji Mother Direct 2023, zespół Encore ciężko pracował, aby ukończyć demo dla wszystkich fanów lub zainteresowanych obserwatorów! Nie jesteśmy w stanie wystarczająco podziękować wszystkim, którzy wspierali ten projekt w ciągu ostatnich kilku lat, więc mamy nadzieję, że będzie to dowód naszej wdzięczności.",
     "de": "Ja. Das Spiel ist noch nicht vollständig, aber als besondere Ankündigung für die Mother Direct 2023 hat das Encore-Team hart daran gearbeitet, eine Demo fertigzustellen, die alle Fans und interessierte Zuschauer spielen können! Wir können uns gar nicht genug bei allen bedanken, die dieses Projekt in den letzten Jahren unterstützt haben und wir hoffen, dass wir damit unsere Dankbarkeit zum Ausdruck bringen können.",
-    "ru": "Да, полная версия игры ещё не закончена, но в качестве особого подарка к Mother Direct 2023 команда Encore усердно потрудилась над созданием демоверсии, в которую могли бы сыграть фанаты и другие заинтересованные игроки! Мы не можем отблагодарить всех, кто поддерживал этот проект на протяжении последних нескольких лет, но надеемся, что хотя бы таким образом мы сможем выразить нашу благодарность."
+    "ru": "Да, полная версия игры ещё не закончена, но в качестве особого подарка к Mother Direct 2023 команда Encore усердно потрудилась над созданием демоверсии для фанатов и других заинтересованных игроков! Трудно отблагодарить всех тех, кто поддерживал этот проект на протяжении последних нескольких лет, но надеемся, что хотя бы так мы сможем выразить свою благодарность."
   },
   "SITE_ABOUT_DL_INTRO_2": {
     "en": "For Windows, for Mac, for Linux and beyond, please enjoy Mother Encore!",
@@ -909,7 +933,7 @@
     "pt_BR": "Para Windows, Mac, Linux e além, divirta-se com MOTHER Encore!",
     "pl": "Dla Windowsa, Maca, Linuksa i nie tylko, baw się dobrze z Mother Encore!",
     "de": "Für Windows, für Mac, für Linux und darüber hinaus, bitte genieße Mother Encore!",
-    "ru": "Насладитесь игрой в MOTHER: Encore на Windows, Mac и Linux!"
+    "ru": "Насладитесь игрой в MOTHER: Encore на Windows, Mac и Linux!"
   },
   "SITE_ABOUT_DL_INTRO_3": {
     "en": "The demo build is available via the Encore Discord or Google Drive.",
@@ -920,8 +944,20 @@
     "es": "La demo está disponible a través del servidor de Discord de Encore o a través de Google Drive.",
     "pt_BR": "A demo está disponível pelo servidor do Discord do Encore ou pelo Google Drive.",
     "pl": "Wersja demo dostępna na naszym serwerze Discord lub na Dysku Google.",
-    "de": "Der Demo-Build ist über den Encore-Discord oder Google Drive verfügbar.",
-    "ru": "Демоверсия доступна на Discord сервере MOTHER: Encore и Google Диск."
+    "de": "Die Demo ist über den Encore-Discord oder Google Drive verfügbar.",
+    "ru": "Демоверсия доступна на Discord-сервере MOTHER: Encore и Google Диске."
+  },
+  "SITE_ABOUT_DL_INTRO_4": {
+    "en": "",
+    "fr": "Elle est jouable intégralement en français !",
+    "it": "Completamente in italiano!",
+    "ja": "最後まで日本語でプレイ可能です！",
+    "ko": "완전한 한국어로 즐겨보세요!",
+    "es": "¡Es completamente jugable tanto en castellano como en español latino!",
+    "pt_BR": "Também está disponível completamente em português brasileiro!",
+    "pl": "Jest w całości dostępna po polsku!",
+    "de": "Sie ist vollständig auf Deutsch spielbar!",
+    "ru": "А ещё она полностью на русском языке!"
   },
   "SITE_ABOUT_DL_DISCORD": {
     "en": "Find the demo build in the #Downloads chat",
@@ -932,11 +968,11 @@
     "es": "Encuentra la demo en el canal #Downloads",
     "pt_BR": "Você pode encontrar a demo no canal de chat #Downloads",
     "pl": "Demo znajdziesz na kanale #Downloads",
-    "de": "Das Demo-Build findest du im Chat #Downloads",
+    "de": "Die findest du im Chat: #Downloads",
     "ru": "Найдите демо в канале #Downloads"
   },
   "SITE_ABOUT_DL_DRIVE": {
-    "en": "...or download the demo directly from our Drive",
+    "en": "... or download the demo directly from our Drive",
     "fr": "… ou directement sur notre Drive",
     "it": "...oppure puoi scaricarla direttamente dal nostro Drive",
     "ja": "もしくは、直接Google Driveからダウンロードできます。",
@@ -944,7 +980,7 @@
     "es": "...o descárgala directamente desde nuestro Drive",
     "pt_BR": "...ou baixar a demo diretamente do nosso Drive",
     "pl": "...lub pobierzesz bezpośrednio z naszego Dysku",
-    "de": "...oder lade die Demo direkt von unserem Drive herunter",
+    "de": "... oder lade sie direkt von unserem Drive herunter",
     "ru": "...или скачайте напрямую из нашего Google Диска"
   },
   "SITE_CREDITS_CREATOR": {
@@ -993,7 +1029,7 @@
     "pt_BR": "Artistas de Sprites de NPCs",
     "pl": "Artyści sprite’ów NPC",
     "de": "NPC-Sprites",
-    "ru": "Спрайтеры НИПов"
+    "ru": "Художники неигровых персонажей"
   },
   "SITE_CREDITS_ANIM_CHARA": {
     "en": "Character Animators",
@@ -1017,7 +1053,7 @@
     "pt_BR": "Animadores de Efeitos",
     "pl": "Animatorzy efektów",
     "de": "Effektanimatoren",
-    "ru": "Аниматоры визуал. эффектов"
+    "ru": "Аниматоры визуальных эффектов"
   },
   "SITE_CREDITS_ARTISTS_BATTLEBG": {
     "en": "Battle Background Artists",
@@ -1077,7 +1113,7 @@
     "pt_BR": "Artistas Promocionais",
     "pl": "Artyści promocyjni",
     "de": "Werbe-Illustrationen",
-    "ru": "Художники промо"
+    "ru": "Художники промо-материалов"
   },
   "SITE_CREDITS_DESIGN_LOGO": {
     "en": "Mother Encore Logo Designer",
@@ -1089,7 +1125,7 @@
     "pt_BR": "Designer da Logo de Mother Encore",
     "pl": "Projektantka logo Mother Encore",
     "de": "Mother Encore Logo-Designer",
-    "ru": "Дизайн логотипа Mother: Encore"
+    "ru": "Дизайнер логотипа Mother: Encore"
   },
   "SITE_CREDITS_WRITERS": {
     "en": "Writers",
@@ -1113,7 +1149,7 @@
     "pt_BR": "Músicos",
     "pl": "Muzycy",
     "de": "Musik",
-    "ru": "Музыканты"
+    "ru": "Композиторы"
   },
   "SITE_CREDITS_SINGERS": {
     "en": "Singers",
@@ -1245,7 +1281,7 @@
     "pt_BR": "Tradutores Espanhol Latino",
     "pl": "Hiszpańskie tłumaczenie (Ameryka Łacińska)",
     "de": "Lateinamerikanische Übersetzer",
-    "ru": "Перевод на испанский (латинская америка)"
+    "ru": "Перевод на испанский (Латинская Америка)"
   },
   "SITE_CREDITS_TRANSLATOR_ES_ES": {
     "en": "European Spanish Translators",
@@ -1269,7 +1305,7 @@
     "pt_BR": "Tradutores Português Brasil",
     "pl": "Portugalskie tłumaczenie (Brazylia)",
     "de": "Portugiesische Übersetzer",
-    "ru": "Перевод на португальский бразильский"
+    "ru": "Перевод на бразильский португальский"
   },
   "SITE_CREDITS_TRANSLATOR_PL": {
     "en": "Polish Translators",
@@ -1341,7 +1377,7 @@
     "pt_BR": "Agradecimentos Muito Especiais",
     "pl": "Bardzo specjalne podziękowania",
     "de": "Ganz Besonderer Dank",
-    "ru": "Отдельная благодаронсть"
+    "ru": "От всей души благодарим"
   },
   "SITE_CREDITS_NAME_FAN_TRANSL": {
     "en": "The Mother 1 + 2 Fan Translation Team",
@@ -1353,7 +1389,7 @@
     "pt_BR": "A Equipe da Fã-Tradução de Mother 1+2",
     "pl": "Zespół fanów tłumaczy Mother 1 + 2",
     "de": "Das Mother 1 + 2 Fanübersetzungsteam",
-    "ru": "Команда фан. переводчиков Mother 1 + 2"
+    "ru": "Команду фанатского перевода Mother 1 + 2"
   },
   "SITE_CREDITS_NAME_COMMUNITY": {
     "en": "The Mother Community",
@@ -1365,7 +1401,7 @@
     "pt_BR": "A Comunidade de Mother",
     "pl": "Społeczność Mother",
     "de": "Die Mother Community",
-    "ru": "Сообщество Mother"
+    "ru": "Сообщество фанатов Mother"
   },
   "SITE_CREDITS_NAME_DISCORD": {
     "en": "The Mother Encore Discord Server",
@@ -1377,6 +1413,6 @@
     "pt_BR": "O Servidor do Discord de Mother Encore",
     "pl": "Serwer Discord Mother Encore",
     "de": "Der Discord-Server von Mother Encore",
-    "ru": "Discord сервер Mother: Encore"
+    "ru": "Discord-сервер Mother: Encore"
   }
 }

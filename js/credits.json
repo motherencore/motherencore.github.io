@@ -13,7 +13,7 @@
     },
     "NPC Sprite Artists": {
         "id": "SITE_CREDITS_ARTISTS_NPC",
-        "people": ["benichi", "Retro 64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Cipbrick", "FlintMother 3", "Yahav", "Megadrivesonic", "Bndi", "Destroyer120"]
+        "people": ["benichi", "Retro 64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Clipbrick", "FlintMother3", "Yahav", "Megadrivesonic", "Bndi", "Destroyer120"]
     },
     "Character Animators": {
         "id": "SITE_CREDITS_ANIM_CHARA",
@@ -113,7 +113,7 @@
     },
     "Russian Translator": {
         "id": "SITE_CREDITS_TRANSLATOR_RU",
-        "people": ["Anasu Meruku", "Zakuro"]
+        "people": ["Anasu Meruku", "Mikhail \"Px-Ch\" Fefilov", "Zakuro"]
     },
     "Manager of Fun": {
         "id": "SITE_CREDITS_FUN",
