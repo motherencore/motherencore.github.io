@@ -13,11 +13,11 @@
     },
     "NPC Sprite Artists": {
         "id": "SITE_CREDITS_ARTISTS_NPC",
-        "people": ["benichi", "Retro 64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Clipbrick", "FlintMother3", "Yahav", "Megadrivesonic", "Bndi", "Destroyer120"]
+        "people": ["benichi", "Retro64", "Nicolás Romero", "Pkdotts", "Sam the Salmon", "Bassya", "Clipbrick", "FlintMother3", "Yahav", "Megadrivesonic", "Bndi", "Destroyer120"]
     },
     "Character Animators": {
         "id": "SITE_CREDITS_ANIM_CHARA",
-        "people": ["Pkdotts", "benichi", "Sam the Salmon", "Clipbrick", "dianesaur", "MaxBound", "-MP64-", "Castor28", "SuperSquidoodle", "CartMart", "Mallow", "corblan", "deebits"]
+        "people": ["Pkdotts", "benichi", "Sam the Salmon", "Clipbrick", "dianesaur", "Maxbound", "-MP64-", "Castor28", "SuperSquidoodle", "CartMart", "Mallow", "Corblan", "deebits"]
     },
     "Effects Animators": {
         "id": "SITE_CREDITS_ANIM_EFFECTS",
@@ -25,15 +25,15 @@
     },
     "Battle Background Artists": {
         "id": "SITE_CREDITS_ARTISTS_BATTLEBG",
-        "people": ["Sam The Salmon", "Pkdotts", "benichi", "Clipbrick", "Bassya"]
+        "people": ["Sam the Salmon", "Pkdotts", "benichi", "Clipbrick", "Bassya"]
     },
     "Map Designers": {
         "id": "SITE_CREDITS_DESIGN_MAPS",
-        "people": ["Sam The Salmon", "Pkdotts", "benichi", "Clipbrick", "-MP64-", "luff", "Qirlfriend", "NAN4", "Ror"]
+        "people": ["Sam the Salmon", "Pkdotts", "benichi", "Clipbrick", "-MP64-", "luff", "Qirlfriend", "NAN4", "Ror"]
     },
     "Illustration Artists": {
         "id": "SITE_CREDITS_ARTISTS_ILLUSTRATION",
-        "people": ["Sam The Salmon", "Pkdotts", "dianesaur", "Clipbrick", "benichi", "Birb"]
+        "people": ["Sam the Salmon", "Pkdotts", "dianesaur", "Clipbrick", "benichi", "Birb"]
     },
     "Concept Artists": {
         "id": "SITE_CREDITS_ARTISTS_CONCEPT",
