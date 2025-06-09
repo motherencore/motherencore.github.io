@@ -65,7 +65,7 @@
     },
     "Bug Testers": {
         "id": "SITE_CREDITS_TESTERS_BUGS",
-        "people": ["Vicente", "Clipbrick", "SuperSquidoodle", "sludgeXP", "Pkdotts", "benichi", "Bassya", "Scan", "Okano", "Xylo", "Chiipan7", "Olavo \"olavored\" R.", "Danionel", "JumpmanFR"]
+        "people": ["Vicente", "Clipbrick", "SuperSquidoodle", "sludgeXP", "Pkdotts", "benichi", "Bassya", "Scan", "Okano", "Xylo", "Chiipan7", "Olavo \"olavored\" R.", "Danionel", "JumpmanFR", "Artem \"Inqurity\" N."]
     },
     "Translation Manager": {
         "id": "SITE_CREDITS_TRANSLATION_MANAGER",
@@ -95,7 +95,7 @@
         "id": "SITE_CREDITS_TRANSLATOR_PT_BR",
         "people": ["Olavo \"olavored\" R.", "Foffano"]
     },
-    "German Translator": {
+    "German Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_DE",
         "people": ["Madokami", "BetaDream~♪"]
     },
@@ -111,9 +111,13 @@
         "id": "SITE_CREDITS_TRANSLATOR_IT",
         "people": ["Korenji", "SpikyG", "Benz"]
     },
-    "Russian Translator": {
+    "Russian Translators": {
         "id": "SITE_CREDITS_TRANSLATOR_RU",
         "people": ["Anasu Meruku", "Mikhail \"Px-Ch\" Fefilov", "Zakuro"]
+    },
+    "Ukrainian Translators": {
+        "id": "SITE_CREDITS_TRANSLATOR_UK",
+        "people": ["Artem \"Inqurity\" N.", "Turnipman"]
     },
     "Manager of Fun": {
         "id": "SITE_CREDITS_FUN",
