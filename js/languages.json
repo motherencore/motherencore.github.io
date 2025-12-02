@@ -988,7 +988,7 @@
     "uk": "А що означає «завантажити»? Гра ще ж не готова."
   },
   "SITE_ABOUT_DL_INTRO_1": {
-    "en": "Yes. The full game is not complete, but as a special treat for the 2023 Mother Direct, the Encore team has been hard at work to finish a demo for any fans or interested watchers to play! We can’t thank everyone who’s supported this project over the past few years enough for their support, so we hope this shows our gratitude.",
+    "en": "Yes. The full game is not complete, but as a special treat for the 2023 Mother Direct, the Encore team has been hard at work to finish Act 1 for any fans or interested watchers to play! We can’t thank everyone who’s supported this project over the past few years enough for their support, so we hope this shows our gratitude.",
     "fr": "En effet. Le jeu final n’est pas encore disponible, mais en vue d’accompagner la présentation du Mother Direct 2023, la Team Encore a travaillé dur pour vous concocter une petite démo ! Nous ne saurions jamais assez remercier toutes celles et tous ceux qui soutiennent le projet depuis toutes ces années, alors c’était l’occasion de manifester notre gratitude.",
     "it": "Già, il gioco completo non esiste ancora. Però, come omaggio per il MOTHER Direct 2023, il team di Encore ha lavorato sodo per portare a termine una demo per tutti i fan! Non riusciremmo a ringraziare abbastanza tutti coloro che hanno supportato questo progetto negli ultimi anni, per cui speriamo di poter dimostrare la nostra gratitudine così.",
     "ja": "はい、ゲーム本編はまだ完成していませんが、MOTHER：ENCOREチームはファンたちにDEMOを提供しました！過去数年間、このプロジェクトを支えてくださった皆様には感謝してもしきれません。",
@@ -1014,7 +1014,7 @@
     "uk": "Насолоджуйтеся MOTHER: Encore на Windows, Mac і Linux!"
   },
   "SITE_ABOUT_DL_INTRO_3": {
-    "en": "The demo build is available via the Encore Discord or Google Drive.",
+    "en": "The Act 1 build is available via the Encore Discord or Google Drive.",
     "fr": "La démo est disponible sur le serveur Discord de MOTHER: Encore et sur Google Drive.",
     "it": "La demo è disponibile attraverso il server Discord di Encore e Google Drive.",
     "ja": "DEMO Ver.は公式DiscordまたはGoogle Driveから入手可能です。",
@@ -1040,7 +1040,7 @@
     "uk": "І вона повністю перекладена на українську!"
   },
   "SITE_ABOUT_DL_DISCORD": {
-    "en": "Find the demo build in the #Downloads chat",
+    "en": "Find the Act 1 build in the #Downloads chat",
     "fr": "Téléchargez la démo depuis le salon #Downloads",
     "it": "Trovi la demo nel canale #downloads",
     "ja": "DEMOは#Downloadsチャンネルからアクセスしてください。",
@@ -1053,7 +1053,7 @@
     "uk": "Знайдіть демо у каналі #Downloads"
   },
   "SITE_ABOUT_DL_DRIVE": {
-    "en": "... or download the demo directly from our Drive",
+    "en": "... or download it directly from our Drive",
     "fr": "… ou directement sur notre Drive",
     "it": "...oppure puoi scaricarla direttamente dal nostro Drive",
     "ja": "もしくは、直接Google Driveからダウンロードできます。",
