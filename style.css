@@ -1,275 +1,274 @@
 body {
-    width: 100%;
-    background-color: #14060a;
-    color: white;
-  }
+  width: 100%;
+  background-color: #14060a;
+  color: white;
+}
 
 header {
-    width: 100%;
-    background-color: #c24b49;
+  width: 100%;
+  background-color: #c24b49;
 }
 
 header .img-fluid {
-    max-width: 25%;
-    height: auto;
-    margin-right: 23%;
+  max-width: 25%;
+  height: auto;
+  margin-right: 23%;
 }
 
-header .nav-link{
-    color: #14060a;
-    font-size: 20px;
-    margin: 5%;
+header .nav-link {
+  color: #14060a;
+  font-size: 20px;
+  margin: 5%;
 }
 
-header .nav-link:hover{
-    color: #ffdc51;
+header .nav-link:hover {
+  color: #ffdc51;
 }
-
 
 .btn-custom {
-    color: #fff;
-    
+  color: #fff;
 }
 
-.botm{
-    padding-top: 5%;
-    z-index: 2;
+.botm {
+  padding-top: 5%;
+  z-index: 2;
 }
 
 .bg {
-    position: absolute;
-    z-index: 0;
-    width: 100%;
-    height: 70vh;
-    max-height: 70vh;
-    background-image: url("Assets/BGs/Zoo.png");
-    background-position: center -15vh;
-    animation-name: moveZoo;
-    animation-duration: 40s;
-    animation-timing-function: linear;
-    box-shadow:inset 0 0 0 2000px rgba(194, 75, 73, 0.521);
-    animation-fill-mode: forwards; 
-  }
-  
-@keyframes moveZoo {
-    from {
-        background-position: -70% 3%;
-    }
-    to { 
-        background-position: -140% 100%;
-    }
- } 
-
- @keyframes moveAnt {
-    from {
-        background-position: 10% 3%;
-    }
-    to { 
-        background-position: 100% 100%;
-    }
- }
- 
- @keyframes moveDer {
-    from {
-        background-position: 80% 70%;
-    }
-    to { 
-        background-position: 10% 3%;
-    }
- }
-
- .bgbo {
-    position: absolute;
-    z-index: 0;
-    width: 100%;
-    height: 70vh;
-    max-height: 70vh;
-    background-color: black;
-    background-position: center -15vh;
-    box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.521);
-    opacity: 0%;
-    animation-name: none;
-    animation-duration: 1s;
-    animation-timing-function: linear;
-    animation-fill-mode: forwards;
- }
-
- @keyframes fadein {
-    from {
-        opacity: 0%
-    }
-    to { 
-        opacity: 100%
-    }
- }
-
- @keyframes fadeout {
-    from {
-        opacity: 100%
-    }
-    to { 
-        opacity: 0%
-    }
- }
-
-header > ul .space{
-    margin: 0;
-    padding: 0;
-    justify-content: space-around;
-    display: flex;
-    flex-grow: 1;
+  position: absolute;
+  z-index: 0;
+  width: 100%;
+  height: 70vh;
+  max-height: 70vh;
+  background-image: url("Assets/BGs/Zoo.png");
+  background-position: center -15vh;
+  animation-name: moveZoo;
+  animation-duration: 40s;
+  animation-timing-function: linear;
+  box-shadow: inset 0 0 0 2000px rgba(194, 75, 73, 0.521);
+  animation-fill-mode: forwards;
 }
 
- .ninepatch {
-    margin:30px;
-    padding: 30px 12px;
-    text-align: center;
-    background-color: white;
-    border-image: url(http://www.css3.info/wp-content/uploads/2007/09/border.png) 25 fill repeat;
-    border-image-width:15px;
-    border-image-outset: 9px;
+@keyframes moveZoo {
+  from {
+    background-position: -70% 3%;
   }
+  to {
+    background-position: -140% 100%;
+  }
+}
+
+@keyframes moveAnt {
+  from {
+    background-position: 10% 3%;
+  }
+  to {
+    background-position: 100% 100%;
+  }
+}
+
+@keyframes moveDer {
+  from {
+    background-position: 80% 70%;
+  }
+  to {
+    background-position: 10% 3%;
+  }
+}
+
+.bgbo {
+  position: absolute;
+  z-index: 0;
+  width: 100%;
+  height: 70vh;
+  max-height: 70vh;
+  background-color: black;
+  background-position: center -15vh;
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.521);
+  opacity: 0%;
+  animation-name: none;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0%;
+  }
+  to {
+    opacity: 100%;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    opacity: 100%;
+  }
+  to {
+    opacity: 0%;
+  }
+}
+
+header > ul .space {
+  margin: 0;
+  padding: 0;
+  justify-content: space-around;
+  display: flex;
+  flex-grow: 1;
+}
+
+.ninepatch {
+  margin: 30px;
+  padding: 30px 12px;
+  text-align: center;
+  background-color: white;
+  border-image: url(http://www.css3.info/wp-content/uploads/2007/09/border.png)
+    25 fill repeat;
+  border-image-width: 15px;
+  border-image-outset: 9px;
+}
 
 footer {
-    width: 100%;
-    background-color: #c24b49;
-    line-height: 120%;
-    bottom: 0;
-    position: relative;
+  width: 100%;
+  background-color: #c24b49;
+  line-height: 120%;
+  bottom: 0;
+  position: relative;
 }
 
-footer > div .navbar{
-    margin: 0;
-    padding: 0;
-    justify-content: space-between;
+footer > div .navbar {
+  margin: 0;
+  padding: 0;
+  justify-content: space-between;
 }
 
-.nav-item{
-    flex-grow: 1;
-    align-items: center;
+.nav-item {
+  flex-grow: 1;
+  align-items: center;
 }
 
-footer > p{
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 0;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    color:#512524;
-    text-align: center;
+footer > p {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: #512524;
+  text-align: center;
 }
 
-footer .nav-link{
-    color: #512524;
+footer .nav-link {
+  color: #512524;
 }
 
-footer .nav-link:hover{
-    color: #ffdc51;
+footer .nav-link:hover {
+  color: #ffdc51;
 }
 
-.vidzone{
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    padding-top: 56.25%;
+.vidzone {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
 }
 
 .responsive-iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
 }
 
-.centered{
-    text-align: center;
+.centered {
+  text-align: center;
 }
 
-.caro-img{
-    width: 100%;
+.caro-img {
+  width: 100%;
 }
 
 div .info > p {
-    margin: 5%;
-    text-align: center;
-    text-justify: inter-word;
+  margin: 5%;
+  text-align: center;
+  text-justify: inter-word;
 }
 
 .chara {
-    margin: 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .chara-box {
-    text-align: center;
+  text-align: center;
 }
 
-.song-name{
-    color: #ffdc51;
+.song-name {
+  color: #ffdc51;
 }
 
-.table{
-    color: white;
+.table {
+  color: white;
 }
 
-.song-table{
-    color: #7e0404;
-    border-style: none;
-    align-items: center;
-    justify-content: center;
+.song-table {
+  color: #7e0404;
+  border-style: none;
+  align-items: center;
+  justify-content: center;
 }
 
-.songcard{
-    background-color: #c24b49;
+.songcard {
+  background-color: #c24b49;
 }
 
-.song-table td{
-    padding: 0.5rem;
+.song-table td {
+  padding: 0.5rem;
 }
 
-.song-table div{
-    padding-top: 0.5rem;
-    padding-right: 1rem;
-    padding-bottom: 0.5rem;
-    padding-left: 1rem;
-    justify-content: right;
-    text-align: right;
-    color: #512524;
+.song-table div {
+  padding-top: 0.5rem;
+  padding-right: 1rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  justify-content: right;
+  text-align: right;
+  color: #512524;
 }
 
-.nav-link{
-    color: #512524;
+.nav-link {
+  color: #512524;
 }
 
-.nav-link:hover{
-    color: #ffdc51;
+.nav-link:hover {
+  color: #ffdc51;
 }
 
-.norm-link{
-    text-decoration: none;
-    color: #ffdc51;
-    transition: color 1s;
+.norm-link {
+  text-decoration: none;
+  color: #ffdc51;
+  transition: color 1s;
 }
 
-.norm-link:hover{
-    color: #e2a241;
-    transition: color 1s;
+.norm-link:hover {
+  color: #e2a241;
+  transition: color 1s;
 }
 
-.ja-list{
-    text-align:left;
-    list-style-type: circle;
+.ja-list {
+  text-align: left;
+  list-style-type: circle;
 }
 
-.ja-bullet{
-    padding: 0.5rem;
+.ja-bullet {
+  padding: 0.5rem;
 }
 
 .question {
-    font-size: 1.75em;
+  font-size: 1.75em;
 }
