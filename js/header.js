@@ -1,7 +1,6 @@
 $(document).ready(function () {
-    const header = document.querySelector('#header');
-    header.innerHTML =
-        `
+  const header = document.querySelector("#header");
+  header.innerHTML = `
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container-fluid">
                 <div class="col-4" style="overflow: hidden;">
@@ -38,7 +37,6 @@ $(document).ready(function () {
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="right:0; left: auto">
                                         <a class="dropdown-item" id="en" onclick="setLanguage('en')">English</a>
-                                        <a class="dropdown-item" id="ja" onclick="setLanguage('ja')">日本語</a>
                                         <a class="dropdown-item" id="fr" onclick="setLanguage('fr')">Français</a>
                                         <a class="dropdown-item" id="es" onclick="setLanguage('es')">Español</a>
                                         <a class="dropdown-item" id="pt_BR" onclick="setLanguage('pt_BR')">Português Brasil</a>

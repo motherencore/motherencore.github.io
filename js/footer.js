@@ -1,11 +1,12 @@
 $(document).ready(function () {
-    const footer = document.querySelector('#footer');
-    footer.innerHTML = `
+  const footer = document.querySelector("#footer");
+  footer.innerHTML = `
         <p class="translated" data-id="SITE_FOOTER_SOCIAL" style="padding-bottom: 0;">Social Media</p>
 
-        <div class="d-flex justify-content-center" style="overflow: hidden; height: 30px;">
+        <div class="d-flex justify-content-center" style="overflow: hidden; height: 30px; color: black">
             <a title="Bluesky" href="https://bsky.app/profile/motherencore.bsky.social" class="nav-link fa-brands fa-bluesky"> </a>
             <a title="Twitter" href="https://twitter.com/Mother_Encore" class="nav-link fa-brands fa-twitter"> </a>
+            <a title="Itch.io" href="https://mother-encore.itch.io/" class="nav-link fa-brands  fa-gamepad"> </a>
             <a title="Youtube" href="https://www.youtube.com/channel/UCQDodAgh7ckh7l3sTlsVdPA" 
                 class="nav-link fa-brands fa-youtube"> </a>
             <a title="Discord" href="https://discord.gg/CTZ9ABzt8X" class="nav-link fa-brands fa-discord"> </a>
