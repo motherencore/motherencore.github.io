@@ -1,0 +1,12 @@
+- Everything in English;
+- Components names in snake_case;
+- View names in CamelCase;
+- Script names in snake_case;
+- Folder names in snake_case as well;
+- Class names in CamelCase;
+- Function names in lower camelCase;
+- Do not use accents in any names (can cause issues depending on the OS)
+Versionamento
+MAJOR version when you make incompatible API changes
+MINOR version when you add functionality in a backward compatible manner
+PATCH version when you make backward compatible bug fixes
