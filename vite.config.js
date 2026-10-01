@@ -64,13 +64,13 @@ function postBuildRoutePages() {
 }
 
 export default defineConfig({
-  base: '/web_sites_deploy_test/',
+  base: '/',
   assetsInclude: ['**/*.xlsx'],
   plugins: [
     vue(),
     vueDevTools(),
     Sitemap({
-      hostname: 'https://yourcustomdomain.com',
+      hostname: 'https://motherencore.com',
       dynamicRoutes: [
         '/about',
         '/faq',
