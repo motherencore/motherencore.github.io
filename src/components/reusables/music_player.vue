@@ -537,7 +537,7 @@ const toggleTapeStyle = () => {
   */
 const handleRecClick = () => {
   isRecording.value = !isRecording.value
-  if (++recClickCount.value >= 1) {
+  if (++recClickCount.value >= 67) {
     recClickCount.value = 0
     toastMessage.value  = '67'
     showToast.value     = true
